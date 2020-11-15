@@ -10,7 +10,7 @@
 
 <br />
 
-## I'm a interested in Data Science and Machine Learning.
+## I'm interested in Data Science and Machine Learning.
 
 - 🔭 I just Created my first Website: [My Portfolio][website]!
 - 🌱 I’m currently learning everything 🤣
