@@ -1,5 +1,5 @@
 
-### Hi there! I'm Abhishek - aka [Autodidact Swagger] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello! I'm Abhishek - aka [Autodidact Swagger] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ### Connect with me:
