@@ -21,7 +21,7 @@
 
 
 
-## 🔧 Technologies & Tools
+## 🔧 Tools and Software
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 <p align="center">
@@ -45,7 +45,7 @@
 
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Statistics
 
 <a href="https://github.com/AbhishekNagrecha/AbhishekNagrecha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNagrecha&count_private=true&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
