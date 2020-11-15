@@ -14,8 +14,8 @@
 
 - 🔭 I just Created my first Website: [My Portfolio][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other freelancers 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate on ML projects with other Researchers
+- 🥅 2020 Goals: Start Contributing to Open Source projects
 - ⚡ Fun fact: I love to take long walks and learn new things
 
 
