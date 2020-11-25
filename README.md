@@ -14,7 +14,7 @@
 
 - 🔭 I just Created my first Website: [My Portfolio][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on ML projects with other Researchers
+- 👯 I’m looking to collaborate on ML & Data Science projects with other Researchers
 - 👯 I’m mostly working with Jupyter notebooks or Google Colab
 - 🥅 2020 Goals: Start Contributing to Open Source projects
 - ⚡ Fun fact: I love to take long walks and learn new things
