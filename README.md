@@ -1,5 +1,8 @@
 
-### Hello! I'm Abhishek - aka [Autodidact Swagger] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! I'm Abhishek - aka [Autodidact Swagger] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
 
 ### Connect with me:
 
@@ -10,18 +13,20 @@
 
 <br />
 
-## I'm interested in Data Science and Machine Learning.
+## I'm a interested in Data Science and Machine Learning.
 
 - 🔭 I just Created my first Website: [My Portfolio][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on ML & Data Science projects with other Researchers
-- 👯 I’m mostly working with Jupyter notebooks or Google Colab
-- 🥅 2020 Goals: Start Contributing to Open Source projects
+- 👯 I’m looking to collaborate with other freelancers 
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👨‍💻 Some of my projects are available at [https://github.com/AbhishekNagrecha?tab=repositories](https://github.com/AbhishekNagrecha?tab=repositories)
+- 📝 I occasionally write articles on [https://medium.com/@abhisheknagrecha](https://medium.com/@abhisheknagrecha)
 - ⚡ Fun fact: I love to take long walks and learn new things
+- 📫 How to reach me **mailnagrecha@gmail.com**
 
 
 
-## 🔧 Tools and Software
+## 🔧 Technologies & Tools
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 <p align="center">
@@ -45,7 +50,7 @@
 
 
 
-## &#x1f4c8; GitHub Statistics
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AbhishekNagrecha/AbhishekNagrecha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNagrecha&count_private=true&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -62,6 +67,17 @@
 [twitter]: https://twitter.com/iamnagrecha
 [instagram]: https://www.instagram.com/iamnagrecha/
 [linkedin]: https://www.linkedin.com/in/nagrechaabhishek/
+
+
+
+
+
+
+
+
+
+
+
 
 
 
