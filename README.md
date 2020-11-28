@@ -41,6 +41,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheknagrecha&show_icons=true&locale=en" alt="abhisheknagrecha" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheknagrecha" alt="abhisheknagrecha" /></a> </p>
+
 
 
 
