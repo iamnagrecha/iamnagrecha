@@ -21,8 +21,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other ML Researchers 
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 👨‍💻 Some of my projects are available at [https://github.com/AbhishekNagrecha?tab=repositories](https://github.com/AbhishekNagrecha?tab=repositories)
-- 📝 I occasionally write articles on [https://medium.com/@abhisheknagrecha](https://medium.com/@abhisheknagrecha)
 - ⚡ Fun fact: I love to take long walks and learn new things
 - 📫 How to reach me **mailnagrecha@gmail.com**
 
