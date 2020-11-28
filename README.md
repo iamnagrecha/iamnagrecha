@@ -1,5 +1,5 @@
 
-### Hi there! I'm Abhishek - aka [Autodidact Swagger] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheknagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknagrecha" /> </p>
 
