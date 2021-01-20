@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://dev.to/abhisheknagrecha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhisheknagrecha" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/iamnagrecha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/iamnagrecha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nagrechaabhishek/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nagrechaabhishek/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nagrechaabhishek/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/iamnagrecha/" height="30" width="40" /></a>
 <a href="https://medium.com/@abhisheknagrecha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abhisheknagrecha" height="30" width="40" /></a>
 </p>
 
