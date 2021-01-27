@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning AWS
 - 🥅 2021 Goals: Contribute and develop more Open Source projects
 - ⚡ Fun fact: I love to take long walks and learn new things
-- 📫 How to reach me **mailnagrecha@gmail.com**
+- 📫 How to reach me **abhishek.nagrecha.an@gmail.com**
 
 
 
