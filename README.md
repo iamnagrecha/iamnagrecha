@@ -24,7 +24,7 @@
 - 🥅 2021 Goals: Contribute and develop more Open Source projects
 - ⚡ Fun fact: I love to take long walks and learn new things
 - 📫 How to reach me **mailnagrecha@gmail.com**
-- 📄 Know about my experiences [https://github.com/AbhishekNagrecha/abhisheknagrecha.github.io/blob/main/assets/Resume_Abhishek_Nagrecha.pdf] (it)
+- 📄 Know about my experiences [https://github.com/AbhishekNagrecha/abhisheknagrecha.github.io/blob/main/assets/Resume_Abhishek_Nagrecha.pdf] 
 
 
 
