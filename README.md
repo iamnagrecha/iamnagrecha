@@ -38,7 +38,7 @@
 
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Statistics
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheknagrecha" alt="abhisheknagrecha" /></a> </p>
 
