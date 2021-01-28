@@ -20,7 +20,7 @@
 
 - 🔭 I just Created my first Website: [My Portfolio][website]!
 - 👯 I’m looking for full-time opportunities from May 2021. 
-- 📄 [Check out my Resume](https://github.com/AbhishekNagrecha/abhisheknagrecha.github.io/blob/main/assets/Resume_Abhishek_Nagrecha%20.pdf)
+- 📄 [Check out my Resume](https://github.com/AbhishekNagrecha/abhisheknagrecha.github.io/blob/main/assets/Resume_Abhishek_Nagrecha.pdf)
 - 🌱 I’m currently learning AWS
 - 🥅 2021 Goals: Contribute and develop more Open Source projects
 - ⚡ Fun fact: I love to take long walks and learn new things
