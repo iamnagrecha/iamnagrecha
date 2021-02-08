@@ -19,7 +19,7 @@
 ## I'm a interested in Software Development, Data Science and Machine Learning.
 
 - 👯 I’m looking for full-time opportunities from May 2021. 
-- 🔭 You can find some of my projects here: [Recent Work][website]!
+- 🔭 You can find some of my projects here: [Recent Work][work]
 - 📄 [Check out my Resume](https://github.com/AbhishekNagrecha/abhisheknagrecha.github.io/blob/main/assets/Resume_Abhishek_Nagrecha.pdf)
 - 🌱 I’m currently learning AWS
 - 🥅 2021 Goals: Contribute and develop more Open Source projects
@@ -56,6 +56,7 @@
 
 
 [website]: https://abhisheknagrecha.github.io/
+[work]: https://abhisheknagrecha.github.io/#section-portfolio
 [twitter]: https://twitter.com/iamnagrecha
 [instagram]: https://www.instagram.com/iamnagrecha/
 [linkedin]: https://www.linkedin.com/in/nagrechaabhishek/
