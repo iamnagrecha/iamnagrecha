@@ -8,7 +8,7 @@
 
 <p align="left">
 <a href="https://abhisheknagrecha.github.io/"><img src="https://img.shields.io/badge/-abhisheknagrecha.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/-Abhishek%20Nagrecha?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/-Abhishek%20Nagrecha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
