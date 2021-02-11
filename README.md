@@ -16,7 +16,7 @@
 
 <br />
 
-## I'm a interested in Software Development, Data Science and Machine Learning.
+## <p align="center">I'm a interested in Software Development, Data Science and Machine Learning. </p>
 
 - 👯 I’m looking for full-time opportunities from May 2021. 
 - 🔭 You can find some of my projects [here][work]
