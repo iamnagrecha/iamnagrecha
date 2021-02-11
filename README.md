@@ -10,6 +10,8 @@
 <a href="https://abhisheknagrecha.github.io/"><img src="https://img.shields.io/badge/-abhisheknagrecha.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/-Abhishek%20Nagrecha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/iamnagrecha"><img src="https://img.shields.io/badge/-@iamnagrecha-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.facebook.com/iamnagrecha/"><img src="https://img.shields.io/badge/-@iamnagrecha-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  
   
 </p>
 
