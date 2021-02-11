@@ -45,6 +45,16 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhisheknagrecha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhisheknagrecha&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknagrecha&" alt="abhisheknagrecha" /></p> 
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheknagrecha" alt="abhisheknagrecha" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknagrecha&show_icons=true&locale=en&layout=compact" alt="abhisheknagrecha" /></p>
+
+
+  
 </p>
 
 
