@@ -1,7 +1,7 @@
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Abhishek 👨‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheknagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknagrecha" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhisheknagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknagrecha" /> </p>
 
 
 
