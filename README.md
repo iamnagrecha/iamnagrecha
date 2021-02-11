@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/iamnagrecha/"><img src="https://img.shields.io/badge/-@iamnagrecha-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://medium.com/@abhisheknagrecha"><img src="https://img.shields.io/badge/-@abhisheknagrecha-BD081C?style=flat&logo=Medium&logoColor=white"/></a>
 <a href="https://dev.to/abhisheknagrecha"><img src="https://img.shields.io/badge/-@abhisheknagrecha-BD081C?style=flat&logo=
-Dev Community&logoColor=white"/></a>
+DevCommunity&logoColor=white"/></a>
   
   
   
