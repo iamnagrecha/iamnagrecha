@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheknagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknagrecha" /> </p>
 
 
-<h3 align="left"> Find me around the web 🌎</h3>
+<h3 align="center"> Find me around the web 🌎</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://abhisheknagrecha.github.io/"><img src="https://img.shields.io/badge/-abhisheknagrecha.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/-Abhishek%20Nagrecha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://dev.to/abhisheknagrecha"><img src="https://img.shields.io/badge/-@abhisheknagrecha-BD081C?style=flat&logo=Dev&logoColor=white"/></a>
