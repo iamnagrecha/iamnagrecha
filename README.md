@@ -18,13 +18,12 @@
 
 ## <p align="center">I'm a interested in Software Development, Data Science and Machine Learning. </p>
 
+- 🎓 I'm currently studying Masters in Computer Science at Lakehead University, Canada.
 - 👯 I’m looking for full-time opportunities from May 2021. 
 - 🔭 You can find some of my projects [here][work]
 - 📄 Check out my [Resume](https://github.com/AbhishekNagrecha/abhisheknagrecha.github.io/blob/main/assets/Resume_Abhishek_Nagrecha.pdf)
 - 🌱 I’m currently learning AWS
 - 🥅 2021 Goals: Contribute and develop more Open Source projects
-- ⚡ Fun fact: I love to take long walks & learn new things
-- 📫 How to reach me **abhishek.nagrecha.an@gmail.com**
 
 
 
