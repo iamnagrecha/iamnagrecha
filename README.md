@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/iamnagrecha/"><img src="https://img.shields.io/badge/-iamnagrecha-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <!-- <a href="https://www.instagram.com/iamnagrecha/"><img src="https://img.shields.io/badge/-@iamnagrecha-3423A6?style=flat&logo=Instagram&logoColor=white"/></a>
  -->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/abhisheknagrecha/abhisheknagrecha.github.io/assets/Wasting Time.gif" align="right"/> 
+<img alt="Night Coding" src="abhisheknagrecha/abhisheknagrecha.github.io/assets/Wasting Time.gif" align="right"/> 
 <br />
 
 ## <p align="center">I'm a interested in Software Development, Data Science and Machine Learning. </p>
