@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/-Abhishek%20Nagrecha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://dev.to/abhisheknagrecha"><img src="https://img.shields.io/badge/-@abhisheknagrecha-BD081C?style=flat&logo=Dev&logoColor=white"/></a>
 <a href="https://twitter.com/iamnagrecha"><img src="https://img.shields.io/badge/-@iamnagrecha-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.facebook.com/iamnagrecha/"><img src="https://img.shields.io/badge/-@iamnagrecha-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/iamnagrecha/"><img src="https://img.shields.io/badge/-iamnagrecha-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://medium.com/@abhisheknagrecha"><img src="https://img.shields.io/badge/-@abhisheknagrecha-BD081C?style=flat&logo=Medium&logoColor=white"/></a>
 
 <br />
