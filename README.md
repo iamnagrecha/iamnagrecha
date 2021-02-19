@@ -14,7 +14,7 @@
 <a href="https://twitter.com/iamnagrecha"><img src="https://img.shields.io/badge/-@iamnagrecha-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 <!-- <a href="https://www.facebook.com/iamnagrecha/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   -->
- <p align="center"><h3><b>I'm a interested in Software Development, Data Science and Machine Learning. </b></p></h3>
+ <h3 align="center"><b>I'm a interested in Software Development, Data Science and Machine Learning. </b></h3>
 
 - 🎓 I'm currently studying Masters in Computer Science at Lakehead University, Canada.
 - 👯 I’m looking for full-time opportunities from May 2021. 
