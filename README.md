@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/-iamnagrecha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@iamnagrecha"><img src="https://img.shields.io/badge/-@iamnagrecha-BD081C?style=flat&logo=Medium&logoColor=white"/></a>  
 <a href="https://twitter.com/iamnagrecha"><img src="https://img.shields.io/badge/-@iamnagrecha-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.facebook.com/iamnagrecha/"><img src="https://img.shields.io/badge/-iamnagrecha-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/iamnagrecha/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
  
 ## <p align="center">I'm a interested in Software Development, Data Science and Machine Learning. </p>
 
