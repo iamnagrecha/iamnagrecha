@@ -18,8 +18,8 @@
 
 - 🎓 I'm currently studying Masters in Computer Science at Lakehead University, Canada.
 - 👯 I’m looking for full-time opportunities from May 2021. 
-- 🔭 You can find some of my projects [here][work]
 - 📄 Check out my [Resume](https://github.com/AbhishekNagrecha/abhisheknagrecha.github.io/blob/main/assets/Resume_Abhishek_Nagrecha.pdf)
+- 🔭 You can find some of my projects [here][work]
 - 🌱 I’m currently learning AWS
 - 🥅 2021 Goals: Contribute and develop more Open Source projects
 
