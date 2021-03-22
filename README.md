@@ -1,13 +1,13 @@
 
 ### <p align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Abhishek 👨‍💻  </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhisheknagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknagrecha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="iamnagrecha" /> </p>
 
 
 <h3 align="center"> Find me around the web 🌎</h3>
 
 <p align="center">
-<a href="https://abhisheknagrecha.github.io/"><img src="https://img.shields.io/badge/-abhisheknagrecha.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://iamnagrecha.github.io/"><img src="https://img.shields.io/badge/-iamnagrecha.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:abhishek.nagrecha.an@gmail.com"><img src="https://img.shields.io/badge/-abhishek.nagrecha.an@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>  
 <a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/-iamnagrecha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@iamnagrecha"><img src="https://img.shields.io/badge/-@iamnagrecha-BD081C?style=flat&logo=Medium&logoColor=white"/></a>  
@@ -18,7 +18,7 @@
 
 - 🎓 I'm currently studying Masters in Computer Science at Lakehead University, Canada.
 - 👯 I’m looking for full-time opportunities from May 2021. 
-- 📄 Check out my [Resume](https://github.com/AbhishekNagrecha/abhisheknagrecha.github.io/blob/main/assets/Resume.pdf)
+- 📄 Check out my [Resume](https://github.com/iamnagrecha/iamnagrecha.github.io/blob/main/assets/Resume.pdf)
 - 🔭 You can find some of my projects [here][work]
 - 🌱 I’m currently learning AWS
 - 🥅 2021 Goals: Contribute and develop more Open Source projects
@@ -39,11 +39,11 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhisheknagrecha&show_icons=true&&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhisheknagrecha&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamnagrecha&show_icons=true&&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&langs_count=8"/>
 </a>
 <!-- <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknagrecha&" alt="abhisheknagrecha" /></p>    -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnagrecha&" alt="iamnagrecha" /></p>    -->
 </p>
 
 
@@ -52,8 +52,8 @@
 
 
 
-[website]: https://abhisheknagrecha.github.io/
-[work]: https://abhisheknagrecha.github.io/#section-portfolio
+[website]: https://iamnagrecha.github.io/
+[work]: https://iamnagrecha.github.io/#section-portfolio
 [twitter]: https://twitter.com/iamnagrecha
 [instagram]: https://www.instagram.com/iamnagrecha/
 [linkedin]: https://www.linkedin.com/in/nagrechaabhishek/
