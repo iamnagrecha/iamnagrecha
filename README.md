@@ -17,7 +17,7 @@
  <h3 align="center"><b>I'm a interested in Software Development, Data Science and Machine Learning. </b></h3>
 
 - 🎓 I'm currently studying Masters in Computer Science at Lakehead University, Canada.
-- 👯 I’m looking for full-time opportunities from May 2021. 
+<!-- - 👯 I’m looking for full-time opportunities from May 2021.  -->
 - 📄 Check out my [Resume](https://github.com/iamnagrecha/iamnagrecha.github.io/blob/main/assets/Resume.pdf)
 - 🔭 You can find some of my projects [here][work]
 - 🌱 I’m currently learning AWS
