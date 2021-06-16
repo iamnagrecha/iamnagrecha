@@ -17,12 +17,11 @@
  <h3 align="center"><b>I'm a interested in Software Development, Data Science and Machine Learning. </b></h3>
 
 - 🎓 I'm currently Working as a Data Engineer at Narcity Media, Canada.
+- 🎓 I have completed my Masters in Computer Science from Lakehead University, Canada.
 - 📄 Check out my [Resume](https://github.com/iamnagrecha/iamnagrecha.github.io/blob/main/assets/Resume.pdf)
 - 🔭 You can find some of my projects [here][work]
 - 🌱 I’m currently learning AWS
 - 🥅 2021 Goals: Contribute and develop more Open Source projects
-- <!-- - 👯 I’m looking for full-time opportunities from May 2021.  -->
-
 
 
 ## 🔧 Tech Stack
