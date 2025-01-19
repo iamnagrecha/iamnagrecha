@@ -21,7 +21,7 @@
 - 📄 Check out my [Resume](https://github.com/iamnagrecha/iamnagrecha.github.io/blob/main/assets/Resume.pdf)
 - 🔭 You can find some of my projects [here][work]
 - 🌱 I’m currently learning AWS, PySpark
-- 🥅 2021 Goals: Contribute and develop more Open Source projects
+- 🥅 2025 Goals: Contribute and develop more Open Source projects
 
 
 ## 🔧 Tech Stack
