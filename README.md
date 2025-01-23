@@ -1,5 +1,7 @@
 
 ### <p align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Abhishek 👨‍💻  </p>
+</a><a href="https://www.instagram.com/iamnagrecha" target="_blank" rel="nofollow"><img align="right" alt="Abhishek's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/iamnagrecha" target="_blank" rel="nofollow"><img align="right" alt="Abhishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="iamnagrecha" /> </p>
 
