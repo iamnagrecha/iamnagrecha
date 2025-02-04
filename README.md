@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+There!+%F0%9F%91%8B;I+am+Abhishek+%F0%9F%91%A8%F0%9F%92%BB;Welcome+to+my+GitHub!;Data+Scientist+%7C+ML+Enthusiast+%7C+Tech+Lover">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+Science+is+my+playground+📊;Turning+Data+into+Insights+📈;Building+ML+Models+🤖;Solving+Real-World+Problems!">
   </a>
 </h1>
 
@@ -12,8 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="500">
 </p>
+
 
 
 <p align="center">
