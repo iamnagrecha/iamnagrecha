@@ -1,8 +1,20 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Abhishek+👨‍💻;Welcome+to+my+GitHub+Profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+There!+%F0%9F%91%8B;I+am+Abhishek+%F0%9F%91%A8%F0%9F%92%BB;Welcome+to+my+GitHub!;Data+Scientist+%7C+ML+Enthusiast+%7C+Tech+Lover">
   </a>
 </h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/iamnagrecha">
+    <img src="https://img.shields.io/github/followers/iamnagrecha?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500">
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=brightgreen" alt="Profile Views" />
