@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  🚀 Passionate Developer | 💡 Tech Enthusiast | 📖 Lifelong Learner
+  🚀 Passionate Data Scientist | 💡 Tech Enthusiast | 📖 Lifelong Learner
 </p>
 
 <p align="center">
