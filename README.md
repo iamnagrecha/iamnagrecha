@@ -1,11 +1,18 @@
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABHISHEK+NAGRECHA....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">  
+  Hello, I'm Abhishek 👨‍💻
 </h1>
 
-![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
+<p align="center">
+  🚀 Passionate Developer | 💡 Tech Enthusiast | 📖 Lifelong Learner
+</p>
+
+<p align="center">
+  <a href="https://github.com/iamnagrecha">
+    <img src="https://img.shields.io/github/followers/iamnagrecha?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
 </a><a href="https://www.instagram.com/iamnagrecha" target="_blank" rel="nofollow"><img align="right" alt="Abhishek's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.linkedin.com/in/iamnagrecha" target="_blank" rel="nofollow"><img align="right" alt="Abhishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
