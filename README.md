@@ -1,7 +1,13 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">  
-  Hello, I'm Abhishek 👨‍💻
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Abhishek+👨‍💻;Welcome+to+my+GitHub!&center=true&size=30">
+  </a>
 </h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=brightgreen" alt="Profile Views" />
+</p>
+
 
 <p align="center">
   🚀 Passionate Data Scientist | 💡 Tech Enthusiast | 📖 Lifelong Learner
