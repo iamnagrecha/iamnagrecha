@@ -65,7 +65,7 @@
 - 🔭 **You can find my projects** [here](#)
 - 🌱 **Currently learning:** AWS, PySpark, Blockchain.
 - 🥅 **2025 Goals:** Contribute and develop more Open Source projects
-- ⚕️ **Interest Areas:** Data Science & Machine Learning in Healthcare
+- ⚕️ **Interest Areas:** Data Science & Machine Learning in AML.
 
 
 
