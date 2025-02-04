@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">  
   Hello, I'm Abhishek 👨‍💻
@@ -12,32 +11,48 @@
   <a href="https://github.com/iamnagrecha">
     <img src="https://img.shields.io/github/followers/iamnagrecha?label=Followers&style=social" alt="GitHub Followers" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-</a><a href="https://www.instagram.com/iamnagrecha" target="_blank" rel="nofollow"><img align="right" alt="Abhishek's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.linkedin.com/in/iamnagrecha" target="_blank" rel="nofollow"><img align="right" alt="Abhishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="iamnagrecha" /> </p>
-
-
-<h3 align="center"> Find me around the web 🌎</h3>
+<h2 align="center"> 🌎 Find me around the web </h2>
 
 <p align="center">
-<a href="https://iamnagrecha.github.io/"><img src="https://img.shields.io/badge/PortfolioWebsite-iamnagrecha.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:abhishek.nagrecha.an@gmail.com"><img src="https://img.shields.io/badge/-abhishek.nagrecha.an@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>  
-<a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/-iamnagrecha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@iamnagrecha"><img src="https://img.shields.io/badge/-@iamnagrecha-BD081C?style=flat&logo=Medium&logoColor=white"/></a>  
-<a href="https://twitter.com/iamnagrecha"><img src="https://img.shields.io/badge/-@iamnagrecha-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
-<!-- <a href="https://www.facebook.com/iamnagrecha/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-  -->
- <h3 align="center"><b>I'm a interested in Data Science and Machine Learning especially in Healthcare ⚕️. </b></h3>
+  <a href="https://iamnagrecha.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-iamnagrecha.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:abhishek.nagrecha.an@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>  
+  <a href="https://www.linkedin.com/in/iamnagrecha/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@iamnagrecha">
+    <img src="https://img.shields.io/badge/-Medium-BD081C?style=flat&logo=Medium&logoColor=white"/>
+  </a>  
+  <a href="https://twitter.com/iamnagrecha">
+    <img src="https://img.shields.io/badge/-Twitter-E4405F?style=flat&logo=Twitter&logoColor=white"/>
+  </a>
+</p>
 
-- 🖥️ I'm currently Working as a Analytics Consultant at Alessa Inc, Canada.
-- 🎓 I have completed my Masters in Computer Science from Lakehead University, Canada.
-- 📄 Check out my [Resume](https://github.com/iamnagrecha/iamnagrecha.github.io/blob/main/assets/Resume.pdf)
-- 🔭 You can find some of my projects [here][work]
-- 🌱 I’m currently learning AWS, PySpark
-- 🥅 2025 Goals: Contribute and develop more Open Source projects
+---
+
+<h2 align="center"> 💻 About Me </h2>
+
+- 🖥️ **Analytics Consultant** at **Alessa Inc, Canada**
+- 🎓 **Masters in Computer Science** from **Lakehead University, Canada**
+- 📄 **Check out my [Resume](https://github.com/iamnagrecha/iamnagrecha.github.io/blob/main/assets/Resume.pdf)**
+- 🔭 **You can find my projects** [here](#)
+- 🌱 **Currently learning:** AWS, PySpark
+- 🥅 **2025 Goals:** Contribute and develop more Open Source projects
+- ⚕️ **Interest Areas:** Data Science & Machine Learning in Healthcare
+
+---
+
+🚀 **Let's connect and build something amazing!**  
+💬 Feel free to reach out! 📩
+
 
 
 ## 🔧 Tech Stack
