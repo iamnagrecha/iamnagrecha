@@ -1,5 +1,9 @@
 
-### <p align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Abhishek 👨‍💻  </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABHISHEK+NAGRECHA....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 </a><a href="https://www.instagram.com/iamnagrecha" target="_blank" rel="nofollow"><img align="right" alt="Abhishek's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.linkedin.com/in/iamnagrecha" target="_blank" rel="nofollow"><img align="right" alt="Abhishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
