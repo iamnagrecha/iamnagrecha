@@ -44,14 +44,9 @@
 - 🎓 **Masters in Computer Science** from **Lakehead University, Canada**
 - 📄 **Check out my [Resume](https://github.com/iamnagrecha/iamnagrecha.github.io/blob/main/assets/Resume.pdf)**
 - 🔭 **You can find my projects** [here](#)
-- 🌱 **Currently learning:** AWS, PySpark
+- 🌱 **Currently learning:** AWS, PySpark, Blockchain.
 - 🥅 **2025 Goals:** Contribute and develop more Open Source projects
 - ⚕️ **Interest Areas:** Data Science & Machine Learning in Healthcare
-
----
-
-🚀 **Let's connect and build something amazing!**  
-💬 Feel free to reach out! 📩
 
 
 
