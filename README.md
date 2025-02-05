@@ -74,28 +74,24 @@
 
 ---
 
-<h2 align="center" style="font-size: 32px; font-weight: bold; color: #4C8BF5; margin-bottom: 20px;">🌍 **Global Client Projects** 🌟</h2>
+## 🌍 **Global Client Projects** 🌟
 
-<p align="center" style="font-size: 20px; font-weight: normal; color: #333333; margin-bottom: 40px;">I’ve had the privilege of working with these esteemed global clients:</p>
+I've had the privilege of working with some amazing global clients. Here's a showcase of the esteemed brands I've collaborated with:
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; font-size: 18px; font-weight: bold;">
-    <span style="color: #FF6F00;">Pangea Money Transfer</span>
-    <span style="color: #009688;">Christie's Auctions</span>
-    <span style="color: #F44336;">Eden Park</span>
-    <span style="color: #673AB7;">Coinsquare</span>
-    <span style="color: #3F51B5;">Sellers</span>
-    <span style="color: #8BC34A;">Pinnacle Pets</span>
+<div align="center">
+    <img src="https://img.shields.io/badge/Pangea%20Money%20Transfer-007acc?style=flat&logo=google&logoColor=white" alt="Pangea Money Transfer"/> |
+    <img src="https://img.shields.io/badge/Christie's%20Auctions-e60000?style=flat&logo=auction&logoColor=white" alt="Christie's Auctions"/> |
+    <img src="https://img.shields.io/badge/Eden%20Park-1b5e20?style=flat&logo=football&logoColor=white" alt="Eden Park"/> |
+    <img src="https://img.shields.io/badge/Coinsquare-ff9f00?style=flat&logo=bitcoin&logoColor=white" alt="Coinsquare"/> |
+    <img src="https://img.shields.io/badge/Sellers-9c27b0?style=flat&logo=shopping-bag&logoColor=white" alt="Sellers"/> |
+    <img src="https://img.shields.io/badge/Pinnacle%20Pets-3f51b5?style=flat&logo=pet&logoColor=white" alt="Pinnacle Pets"/> |
+    <img src="https://img.shields.io/badge/Brinks%20Canada-00897b?style=flat&logo=security&logoColor=white" alt="Brinks Canada"/> |
+    <img src="https://img.shields.io/badge/Bitfinex-ff4081?style=flat&logo=bitcoin&logoColor=white" alt="Bitfinex"/> |
+    <img src="https://img.shields.io/badge/Canadian%20Tire%20Bank-2c6bc1?style=flat&logo=bank&logoColor=white" alt="Canadian Tire Bank"/> |
+    <img src="https://img.shields.io/badge/Fairstone%20Bank-00c853?style=flat&logo=bank&logoColor=white" alt="Fairstone Bank"/> |
+    <img src="https://img.shields.io/badge/Duo%20Bank-4caf50?style=flat&logo=bank&logoColor=white" alt="Duo Bank"/> |
+    <img src="https://img.shields.io/badge/Exchange%20Bank%20of%20Canada-0277bd?style=flat&logo=bank&logoColor=white" alt="Exchange Bank of Canada"/>
 </div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; font-size: 18px; font-weight: bold; margin-top: 20px;">
-    <span style="color: #FF9800;">Brinks Canada</span>
-    <span style="color: #795548;">Bitfinex</span>
-    <span style="color: #607D8B;">Canadian Tire Bank</span>
-    <span style="color: #9C27B0;">Fairstone Bank</span>
-    <span style="color: #00BCD4;">Duo Bank</span>
-    <span style="color: #FF5722;">Exchange Bank of Canada</span>
-</div>
-
 
 
 
