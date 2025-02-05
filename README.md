@@ -76,32 +76,27 @@
 
 <h2 align="center"> 🌍 Highlight of My Work with Global Clients 🌟 </h2>
 
+<p align="center" style="font-size: 20px; font-weight: bold; color: #4C8BF5;">Collaborating with these esteemed global clients has been a privilege:</p>
+
 <p align="center">
-  <span style="font-size: 18px; font-weight: bold; color: #4C8BF5;">Collaborating with these esteemed global clients has been a privilege:</span>
+  <span style="color: #FF6F00; font-size: 18px; font-weight: bold;">Pangea Money Transfer</span> | 
+  <span style="color: #009688; font-size: 18px; font-weight: bold;">Christie's Auctions</span> | 
+  <span style="color: #F44336; font-size: 18px; font-weight: bold;">Eden Park</span> | 
+  <span style="color: #673AB7; font-size: 18px; font-weight: bold;">Coinsquare</span>
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pangea_Money_Transfer_logo.png" alt="Pangea Money Transfer" width="150" style="margin: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Christie%27s_logo.svg" alt="Christie's Auctions" width="150" style="margin: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Eden_Park_logo.png" alt="Eden Park" width="150" style="margin: 5px;"/>
+  <span style="color: #3F51B5; font-size: 18px; font-weight: bold;">Sellers</span> | 
+  <span style="color: #8BC34A; font-size: 18px; font-weight: bold;">Pinnacle Pets</span> | 
+  <span style="color: #FF9800; font-size: 18px; font-weight: bold;">Brinks Canada</span> | 
+  <span style="color: #795548; font-size: 18px; font-weight: bold;">Bitfinex</span>
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Coinsquare_logo.png" alt="Coinsquare" width="150" style="margin: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sellers_logo.png" alt="Sellers" width="150" style="margin: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pinnacle_Pets_logo.png" alt="Pinnacle Pets" width="150" style="margin: 5px;"/>
-</p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Brinks_Canada_logo.png" alt="Brinks Canada" width="150" style="margin: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Bitfinex_logo.png" alt="Bitfinex" width="150" style="margin: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canadian_Tire_Bank_logo.png" alt="Canadian Tire Bank" width="150" style="margin: 5px;"/>
-</p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Fairstone_Bank_logo.png" alt="Fairstone Bank" width="150" style="margin: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Duo_Bank_logo.png" alt="Duo Bank" width="150" style="margin: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Exchange_Bank_of_Canada_logo.png" alt="Exchange Bank of Canada" width="150" style="margin: 5px;"/>
+  <span style="color: #607D8B; font-size: 18px; font-weight: bold;">Canadian Tire Bank</span> | 
+  <span style="color: #9C27B0; font-size: 18px; font-weight: bold;">Fairstone Bank</span> | 
+  <span style="color: #00BCD4; font-size: 18px; font-weight: bold;">Duo Bank</span> | 
+  <span style="color: #FF5722; font-size: 18px; font-weight: bold;">Exchange Bank of Canada</span>
 </p>
 
 
