@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello,+I'm+Abhishek+Nagrecha!;Data+Science+is+my+playground+📊;Turning+Data+into+Insights+📈;Building+ML+Models+🤖;Solving+Real-World+Problems!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello,+I'm+Abhishek+Nagrecha;Data+Science+Expert+📊;Transforming+Data+into+Actionable+Insights+📈;Building+Machine+Learning+Models+🤖;Solving+Real-World+Challenges!">
   </a>
 </h1>
 
@@ -15,25 +15,19 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
 </p>
 
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=brightgreen" alt="Profile Views" />
-</p>
-
-
-<p align="center">
-  🚀 Passionate Data Scientist | 💡 Tech Enthusiast | 📖 Lifelong Learner
+  🚀 Passionate about Data Science | 💡 Driven by Technology | 📖 Lifelong Learner | Focused on Solving Real-World Problems
 </p>
 
 <p align="center">
   <a href="https://github.com/iamnagrecha">
     <img src="https://img.shields.io/github/followers/iamnagrecha?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
+
 
 <h2 align="center"> 🌎 Find me around the web </h2>
 
