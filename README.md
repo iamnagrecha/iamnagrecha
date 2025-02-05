@@ -74,30 +74,30 @@
 
 ---
 
-<h2 align="center"> 🌍 Highlight of My Work with Global Clients 🌟 </h2>
+<h2 align="center" style="font-size: 28px; font-weight: bold; color: #4C8BF5;">🌍 **Global Client Projects** 🌟</h2>
 
-<p align="center" style="font-size: 20px; font-weight: bold; color: #4C8BF5;">Collaborating with these esteemed global clients has been a privilege:</p>
+<p align="center" style="font-size: 20px; font-weight: bold; color: #4C8BF5; text-transform: uppercase;">I’ve had the privilege of working with these esteemed clients worldwide:</p>
 
-<p align="center">
-  <span style="color: #FF6F00; font-size: 18px; font-weight: bold;">Pangea Money Transfer</span> | 
-  <span style="color: #009688; font-size: 18px; font-weight: bold;">Christie's Auctions</span> | 
-  <span style="color: #F44336; font-size: 18px; font-weight: bold;">Eden Park</span> | 
-  <span style="color: #673AB7; font-size: 18px; font-weight: bold;">Coinsquare</span>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+  <span style="color: #FF6F00; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Pangea Money Transfer</span>
+  <span style="color: #009688; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Christie's Auctions</span>
+  <span style="color: #F44336; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Eden Park</span>
+  <span style="color: #673AB7; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Coinsquare</span>
+</div>
 
-<p align="center">
-  <span style="color: #3F51B5; font-size: 18px; font-weight: bold;">Sellers</span> | 
-  <span style="color: #8BC34A; font-size: 18px; font-weight: bold;">Pinnacle Pets</span> | 
-  <span style="color: #FF9800; font-size: 18px; font-weight: bold;">Brinks Canada</span> | 
-  <span style="color: #795548; font-size: 18px; font-weight: bold;">Bitfinex</span>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px;">
+  <span style="color: #3F51B5; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Sellers</span>
+  <span style="color: #8BC34A; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Pinnacle Pets</span>
+  <span style="color: #FF9800; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Brinks Canada</span>
+  <span style="color: #795548; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Bitfinex</span>
+</div>
 
-<p align="center">
-  <span style="color: #607D8B; font-size: 18px; font-weight: bold;">Canadian Tire Bank</span> | 
-  <span style="color: #9C27B0; font-size: 18px; font-weight: bold;">Fairstone Bank</span> | 
-  <span style="color: #00BCD4; font-size: 18px; font-weight: bold;">Duo Bank</span> | 
-  <span style="color: #FF5722; font-size: 18px; font-weight: bold;">Exchange Bank of Canada</span>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px;">
+  <span style="color: #607D8B; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Canadian Tire Bank</span>
+  <span style="color: #9C27B0; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Fairstone Bank</span>
+  <span style="color: #00BCD4; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Duo Bank</span>
+  <span style="color: #FF5722; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Exchange Bank of Canada</span>
+</div>
 
 
 
