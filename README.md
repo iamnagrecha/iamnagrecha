@@ -78,7 +78,7 @@
 
 <p align="center" style="font-size: 20px; font-weight: bold; color: #4C8BF5; text-transform: uppercase;">I’ve had the privilege of working with these esteemed clients worldwide:</p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px;">
   <span style="color: #FF6F00; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Pangea Money Transfer</span>
   <span style="color: #009688; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Christie's Auctions</span>
   <span style="color: #F44336; font-size: 22px; font-weight: bold; padding: 5px 10px; background-color: #000000; border-radius: 8px;">Eden Park</span>
