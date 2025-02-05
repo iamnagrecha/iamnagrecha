@@ -74,18 +74,21 @@
 
 ---
 
-<h2 align="center"> 📈 Some of My Work </h2>
+<h2 align="center"> 🌍 Some of the Client Projects I've Worked On </h2>
 
 <p align="center">
-  <a href="https://github.com/iamnagrecha/Project-1">
-    <img src="https://img.shields.io/badge/-Project%201-4C8BF5?style=flat&logo=github&logoColor=white" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/iamnagrecha/Project-2">
-    <img src="https://img.shields.io/badge/-Project%202-4C8BF5?style=flat&logo=github&logoColor=white" alt="Project 2"/>
-  </a>
-  <a href="https://github.com/iamnagrecha/Project-3">
-    <img src="https://img.shields.io/badge/-Project%203-4C8BF5?style=flat&logo=github&logoColor=white" alt="Project 3"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Pangea%20Money%20Transfer-4C8BF5?style=flat&logo=github&logoColor=white" alt="Pangea Money Transfer"/>
+  <img src="https://img.shields.io/badge/-Christie's%20Auctions-4C8BF5?style=flat&logo=github&logoColor=white" alt="Christie's Auctions"/>
+  <img src="https://img.shields.io/badge/-Eden%20Park-4C8BF5?style=flat&logo=github&logoColor=white" alt="Eden Park"/>
+  <img src="https://img.shields.io/badge/-Coinsquare-4C8BF5?style=flat&logo=github&logoColor=white" alt="Coinsquare"/>
+  <img src="https://img.shields.io/badge/-Sellers-4C8BF5?style=flat&logo=github&logoColor=white" alt="Sellers"/>
+  <img src="https://img.shields.io/badge/-Pinnacle%20Pets-4C8BF5?style=flat&logo=github&logoColor=white" alt="Pinnacle Pets"/>
+  <img src="https://img.shields.io/badge/-Brinks%20Canada-4C8BF5?style=flat&logo=github&logoColor=white" alt="Brinks Canada"/>
+  <img src="https://img.shields.io/badge/-Bitfinex-4C8BF5?style=flat&logo=github&logoColor=white" alt="Bitfinex"/>
+  <img src="https://img.shields.io/badge/-Canadian%20Tire%20Bank-4C8BF5?style=flat&logo=github&logoColor=white" alt="Canadian Tire Bank"/>
+  <img src="https://img.shields.io/badge/-Fairstone%20Bank-4C8BF5?style=flat&logo=github&logoColor=white" alt="Fairstone Bank"/>
+  <img src="https://img.shields.io/badge/-Duo%20Bank-4C8BF5?style=flat&logo=github&logoColor=white" alt="Duo Bank"/>
+  <img src="https://img.shields.io/badge/-Exchange%20Bank%20of%20Canada-4C8BF5?style=flat&logo=github&logoColor=white" alt="Exchange Bank of Canada"/>
 </p>
 
 ---
