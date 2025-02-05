@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+  <img src="https://img.shields.io/badge/Data_Science_Expertise-%E2%9C%94%20Building%20Solutions-%2300B0D0?style=flat-square&logo=python" alt="Data Science Expertise" />
 </p>
+
 
 <p align="center">
   🚀 Passionate about Data Science | 💡 Driven by Technology | 📖 Lifelong Learner | Focused on Solving Real-World Problems
