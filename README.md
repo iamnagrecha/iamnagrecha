@@ -90,8 +90,13 @@ I've had the privilege of working with some amazing global clients. Here's a sho
     <img src="https://img.shields.io/badge/Canadian%20Tire%20Bank-2c6bc1?style=flat&logo=bank&logoColor=white" alt="Canadian Tire Bank"/> |
     <img src="https://img.shields.io/badge/Fairstone%20Bank-00c853?style=flat&logo=bank&logoColor=white" alt="Fairstone Bank"/> |
     <img src="https://img.shields.io/badge/Duo%20Bank-4caf50?style=flat&logo=bank&logoColor=white" alt="Duo Bank"/> |
-    <img src="https://img.shields.io/badge/Exchange%20Bank%20of%20Canada-0277bd?style=flat&logo=bank&logoColor=white" alt="Exchange Bank of Canada"/>
+    <img src="https://img.shields.io/badge/Exchange%20Bank%20of%20Canada-0277bd?style=flat&logo=bank&logoColor=white" alt="Exchange Bank of Canada"/> |
+    <img src="https://img.shields.io/badge/Ingles-1e88e5?style=flat&logo=shopping-cart&logoColor=white" alt="Ingles"/> |
+    <img src="https://img.shields.io/badge/TFOB-FF5722?style=flat&logo=shopping-bag&logoColor=white" alt="TFOB"/> |
+    <img src="https://img.shields.io/badge/IQPC-2c3e50?style=flat&logo=building&logoColor=white" alt="IQPC"/> |
+    <img src="https://img.shields.io/badge/Wave%20Financial-00bcd4?style=flat&logo=credit-card&logoColor=white" alt="Wave Financial"/>
 </div>
+
 
 
 
