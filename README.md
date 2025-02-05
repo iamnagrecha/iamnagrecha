@@ -74,35 +74,36 @@
 
 ---
 
-<h2 align="center"> 🌟 Highlight of My Work with Global Clients 🌍 </h2>
+<h2 align="center"> 🌍 Highlight of My Work with Global Clients 🌟 </h2>
 
 <p align="center">
-  <span style="font-size: 18px; font-weight: bold; color: #4C8BF5;">Working with these renowned global clients has been a privilege:</span>
+  <span style="font-size: 18px; font-weight: bold; color: #4C8BF5;">Collaborating with these esteemed global clients has been a privilege:</span>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Pangea%20Money%20Transfer-4C8BF5?style=flat&logo=github&logoColor=white" alt="Pangea Money Transfer"/>
-  <img src="https://img.shields.io/badge/-Christie's%20Auctions-4C8BF5?style=flat&logo=github&logoColor=white" alt="Christie's Auctions"/>
-  <img src="https://img.shields.io/badge/-Eden%20Park-4C8BF5?style=flat&logo=github&logoColor=white" alt="Eden Park"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pangea_Money_Transfer_logo.png" alt="Pangea Money Transfer" width="150" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Christie%27s_logo.svg" alt="Christie's Auctions" width="150" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Eden_Park_logo.png" alt="Eden Park" width="150" style="margin: 5px;"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Coinsquare-4C8BF5?style=flat&logo=github&logoColor=white" alt="Coinsquare"/>
-  <img src="https://img.shields.io/badge/-Sellers-4C8BF5?style=flat&logo=github&logoColor=white" alt="Sellers"/>
-  <img src="https://img.shields.io/badge/-Pinnacle%20Pets-4C8BF5?style=flat&logo=github&logoColor=white" alt="Pinnacle Pets"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Coinsquare_logo.png" alt="Coinsquare" width="150" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sellers_logo.png" alt="Sellers" width="150" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pinnacle_Pets_logo.png" alt="Pinnacle Pets" width="150" style="margin: 5px;"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Brinks%20Canada-4C8BF5?style=flat&logo=github&logoColor=white" alt="Brinks Canada"/>
-  <img src="https://img.shields.io/badge/-Bitfinex-4C8BF5?style=flat&logo=github&logoColor=white" alt="Bitfinex"/>
-  <img src="https://img.shields.io/badge/-Canadian%20Tire%20Bank-4C8BF5?style=flat&logo=github&logoColor=white" alt="Canadian Tire Bank"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Brinks_Canada_logo.png" alt="Brinks Canada" width="150" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Bitfinex_logo.png" alt="Bitfinex" width="150" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canadian_Tire_Bank_logo.png" alt="Canadian Tire Bank" width="150" style="margin: 5px;"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Fairstone%20Bank-4C8BF5?style=flat&logo=github&logoColor=white" alt="Fairstone Bank"/>
-  <img src="https://img.shields.io/badge/-Duo%20Bank-4C8BF5?style=flat&logo=github&logoColor=white" alt="Duo Bank"/>
-  <img src="https://img.shields.io/badge/-Exchange%20Bank%20of%20Canada-4C8BF5?style=flat&logo=github&logoColor=white" alt="Exchange Bank of Canada"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Fairstone_Bank_logo.png" alt="Fairstone Bank" width="150" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Duo_Bank_logo.png" alt="Duo Bank" width="150" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Exchange_Bank_of_Canada_logo.png" alt="Exchange Bank of Canada" width="150" style="margin: 5px;"/>
 </p>
+
 
 
 ---
