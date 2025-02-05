@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Ztm5cVHeDOJFLXa/giphy.gif" width="200" alt="Data Science Animation" />
+  <img src="https://media.giphy.com/media/KA2YxyC6fOOfY6dbE9/giphy.gif" width="250" alt="Data Science Visualization" />
 </p>
+
 
 
 <p align="center">
