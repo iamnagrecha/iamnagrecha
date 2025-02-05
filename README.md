@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Science_Expertise-%E2%9C%94%20Building%20Solutions-%2300B0D0?style=flat-square&logo=python" alt="Data Science Expertise" />
+  <img src="https://media.giphy.com/media/3o6Ztm5cVHeDOJFLXa/giphy.gif" width="200" alt="Data Science Animation" />
 </p>
 
 
