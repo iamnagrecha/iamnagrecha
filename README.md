@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KA2YxyC6fOOfY6dbE9/giphy.gif" width="250" alt="Data Science Visualization" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Artificial_Intelligence_Logo.svg/600px-Artificial_Intelligence_Logo.svg.png" width="200" alt="Artificial Intelligence Logo" />
 </p>
 
 
