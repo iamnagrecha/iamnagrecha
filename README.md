@@ -12,9 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://miro.medium.com/max/1200/1*y7ixbHMQOj3Xft4vUGPb5g.png" width="250" alt="Data Science Illustration" />
-</p>
 
 <p align="center">
   🚀 Passionate about Data Science | 💡 Driven by Technology | 📖 Lifelong Learner | Focused on Solving Real-World Problems
