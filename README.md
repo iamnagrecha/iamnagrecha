@@ -42,7 +42,6 @@
 
 <h2 align="center"> 💼 Expertise & Specializations </h2>
 
-I specialize in various areas of compliance and data solutions, enhancing automation, analytics, and client support:
 
 - **🏦 AML & Compliance Solutions:**  
   Implementing end-to-end AML solutions for banks and financial institutions.
