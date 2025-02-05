@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/iamnagrecha">
@@ -12,35 +11,77 @@
   </a>
 </p>
 
-
 <p align="center">
   🚀 Passionate about Data Science | 💡 Driven by Technology | 📖 Lifelong Learner | Focused on Solving Real-World Problems
 </p>
 
 ---
 
-
 <h2 align="center"> 🌎 Find me around the web </h2>
 
 <p align="center">
   <a href="https://iamnagrecha.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-iamnagrecha.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-iamnagrecha.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:abhishek.nagrecha.an@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>  
   <a href="https://www.linkedin.com/in/iamnagrecha/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@iamnagrecha">
-    <img src="https://img.shields.io/badge/-Medium-BD081C?style=flat&logo=Medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Medium-BD081C?style=flat&logo=Medium&logoColor=white" alt="Medium"/>
   </a>  
   <a href="https://twitter.com/iamnagrecha">
-    <img src="https://img.shields.io/badge/-Twitter-E4405F?style=flat&logo=Twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Twitter-E4405F?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
 ---
+
+<h2 align="center"> 💼 Expertise & Specializations </h2>
+
+<p align="center">
+  <b>🔹 Data Science & Analytics:</b> Transforming raw data into actionable insights through advanced analytics and machine learning models.
+</p>
+<p align="center">
+  <b>🔹 Business Intelligence:</b> Building solutions to optimize decision-making and operational efficiencies.
+</p>
+<p align="center">
+  <b>🔹 Machine Learning & AI:</b> Developing predictive models to solve complex business problems and drive automation.
+</p>
+
+---
+
+<h2 align="center"> 📊 My Tech Stack </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=MySQL&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI"/>
+</p>
+
+---
+
+<h2 align="center"> 📈 Some of My Work </h2>
+
+<p align="center">
+  <a href="https://github.com/iamnagrecha/Project-1">
+    <img src="https://img.shields.io/badge/-Project%201-4C8BF5?style=flat&logo=github&logoColor=white" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/iamnagrecha/Project-2">
+    <img src="https://img.shields.io/badge/-Project%202-4C8BF5?style=flat&logo=github&logoColor=white" alt="Project 2"/>
+  </a>
+  <a href="https://github.com/iamnagrecha/Project-3">
+    <img src="https://img.shields.io/badge/-Project%203-4C8BF5?style=flat&logo=github&logoColor=white" alt="Project 3"/>
+  </a>
+</p>
+
+---
+
 
 ## 🔹 What I Do
 
