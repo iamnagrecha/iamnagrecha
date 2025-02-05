@@ -13,10 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Artificial_Intelligence_Logo.svg/600px-Artificial_Intelligence_Logo.svg.png" width="200" alt="Artificial Intelligence Logo" />
+  <img src="https://miro.medium.com/max/1200/1*y7ixbHMQOj3Xft4vUGPb5g.png" width="250" alt="Data Science Illustration" />
 </p>
-
-
 
 <p align="center">
   🚀 Passionate about Data Science | 💡 Driven by Technology | 📖 Lifelong Learner | Focused on Solving Real-World Problems
