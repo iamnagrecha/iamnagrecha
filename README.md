@@ -20,9 +20,6 @@
 <h2 align="center"> 🌎 Find me around the web </h2>
 
 <p align="center">
-  <a href="https://iamnagrecha.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-iamnagrecha.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="mailto:abhishek.nagrecha.an@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>  
