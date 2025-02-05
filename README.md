@@ -74,22 +74,36 @@
 
 ---
 
-<h2 align="center"> 🌍 Some of the Client Projects I've Worked On </h2>
+<h2 align="center"> 🌟 Highlight of My Work with Global Clients 🌍 </h2>
+
+<p align="center">
+  <span style="font-size: 18px; font-weight: bold; color: #4C8BF5;">Working with these renowned global clients has been a privilege:</span>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Pangea%20Money%20Transfer-4C8BF5?style=flat&logo=github&logoColor=white" alt="Pangea Money Transfer"/>
   <img src="https://img.shields.io/badge/-Christie's%20Auctions-4C8BF5?style=flat&logo=github&logoColor=white" alt="Christie's Auctions"/>
   <img src="https://img.shields.io/badge/-Eden%20Park-4C8BF5?style=flat&logo=github&logoColor=white" alt="Eden Park"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Coinsquare-4C8BF5?style=flat&logo=github&logoColor=white" alt="Coinsquare"/>
   <img src="https://img.shields.io/badge/-Sellers-4C8BF5?style=flat&logo=github&logoColor=white" alt="Sellers"/>
   <img src="https://img.shields.io/badge/-Pinnacle%20Pets-4C8BF5?style=flat&logo=github&logoColor=white" alt="Pinnacle Pets"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Brinks%20Canada-4C8BF5?style=flat&logo=github&logoColor=white" alt="Brinks Canada"/>
   <img src="https://img.shields.io/badge/-Bitfinex-4C8BF5?style=flat&logo=github&logoColor=white" alt="Bitfinex"/>
   <img src="https://img.shields.io/badge/-Canadian%20Tire%20Bank-4C8BF5?style=flat&logo=github&logoColor=white" alt="Canadian Tire Bank"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Fairstone%20Bank-4C8BF5?style=flat&logo=github&logoColor=white" alt="Fairstone Bank"/>
   <img src="https://img.shields.io/badge/-Duo%20Bank-4C8BF5?style=flat&logo=github&logoColor=white" alt="Duo Bank"/>
   <img src="https://img.shields.io/badge/-Exchange%20Bank%20of%20Canada-4C8BF5?style=flat&logo=github&logoColor=white" alt="Exchange Bank of Canada"/>
 </p>
+
 
 ---
 
