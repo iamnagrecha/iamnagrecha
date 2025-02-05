@@ -57,16 +57,32 @@
 
 ---
 
-    <h2>🔹 What I Do</h2>
-    <ul>
-        <li><strong>🏦 AML & Compliance Solutions:</strong> Implementing end-to-end AML solutions for banks and financial institutions.</li>
-        <li><strong>🌍 Client Implementation & Support:</strong> Assisting international clients in deploying Alessa's compliance and analytics solutions.</li>
-        <li><strong>📊 Data Analytics & Mapping:</strong> Developing batch & real-time analytics for Sanction Screening, Transaction Monitoring, Regulatory Reporting (FINTRAC STRs, CNBV, LCTRs), and Entity Resolution.</li>
-        <li><strong>☁ Cloud & Big Data:</strong> Working with Azure and Cosmos DB to build scalable real-time transaction monitoring solutions.</li>
-        <li><strong>🔍 API & Testing:</strong> Testing RESTful APIs for Screening and CLEARID Confirm using Swagger & Postman.</li>
-        <li><strong>🚀 Automation & Pipelines:</strong> Setting up end-to-end data pipelines for entity resolution, screening, transaction monitoring, and risk scoring, improving automation and transparency.</li>
-        <li><strong>📢 Consulting & Insights:</strong> Conducting independent analysis, generating insights, and collaborating with clients to optimize compliance workflows.</li>
-    </ul>
+## 🔹 What I Do
+
+I specialize in various areas of compliance and data solutions, enhancing automation, analytics, and client support:
+
+- **🏦 AML & Compliance Solutions:**  
+  Implementing end-to-end AML solutions for banks and financial institutions.
+
+- **🌍 Client Implementation & Support:**  
+  Assisting international clients in deploying Alessa's compliance and analytics solutions.
+
+- **📊 Data Analytics & Mapping:**  
+  Developing batch & real-time analytics for Sanction Screening, Transaction Monitoring, Regulatory Reporting (FINTRAC STRs, CNBV, LCTRs), and Entity Resolution.
+
+- **☁ Cloud & Big Data:**  
+  Working with Azure and Cosmos DB to build scalable real-time transaction monitoring solutions.
+
+- **🔍 API & Testing:**  
+  Testing RESTful APIs for Screening and CLEARID Confirm using Swagger & Postman.
+
+- **🚀 Automation & Pipelines:**  
+  Setting up end-to-end data pipelines for entity resolution, screening, transaction monitoring, and risk scoring, improving automation and transparency.
+
+- **📢 Consulting & Insights:**  
+  Conducting independent analysis, generating insights, and collaborating with clients to optimize compliance workflows.
+
+---
 
 
 
