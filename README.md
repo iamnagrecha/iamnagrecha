@@ -64,9 +64,6 @@ I specialize in various areas of compliance and data solutions, enhancing automa
 - **🏦 AML & Compliance Solutions:**  
   Implementing end-to-end AML solutions for banks and financial institutions.
 
-- **🌍 Client Implementation & Support:**  
-  Assisting international clients in deploying Alessa's compliance and analytics solutions.
-
 - **📊 Data Analytics & Mapping:**  
   Developing batch & real-time analytics for Sanction Screening, Transaction Monitoring, Regulatory Reporting (FINTRAC STRs, CNBV, LCTRs), and Entity Resolution.
 
