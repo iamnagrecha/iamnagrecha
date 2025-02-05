@@ -57,15 +57,16 @@
 
 ---
 
-<h2 align="center"> 💻 About Me </h2>
-
-- 🖥️ **Analytics Consultant** at **Alessa Inc, Canada**
-- 🎓 **Masters in Computer Science** from **Lakehead University, Canada**
-- 📄 **Check out my [Resume](https://github.com/iamnagrecha/iamnagrecha.github.io/blob/main/assets/Resume.pdf)**
-- 🔭 **You can find my projects** [here](#)
-- 🌱 **Currently learning:** AWS, PySpark, Blockchain.
-- 🥅 **2025 Goals:** Contribute and develop more Open Source projects
-- ⚕️ **Interest Areas:** Data Science & Machine Learning in AML.
+    <h2>🔹 What I Do</h2>
+    <ul>
+        <li><strong>🏦 AML & Compliance Solutions:</strong> Implementing end-to-end AML solutions for banks and financial institutions.</li>
+        <li><strong>🌍 Client Implementation & Support:</strong> Assisting international clients in deploying Alessa's compliance and analytics solutions.</li>
+        <li><strong>📊 Data Analytics & Mapping:</strong> Developing batch & real-time analytics for Sanction Screening, Transaction Monitoring, Regulatory Reporting (FINTRAC STRs, CNBV, LCTRs), and Entity Resolution.</li>
+        <li><strong>☁ Cloud & Big Data:</strong> Working with Azure and Cosmos DB to build scalable real-time transaction monitoring solutions.</li>
+        <li><strong>🔍 API & Testing:</strong> Testing RESTful APIs for Screening and CLEARID Confirm using Swagger & Postman.</li>
+        <li><strong>🚀 Automation & Pipelines:</strong> Setting up end-to-end data pipelines for entity resolution, screening, transaction monitoring, and risk scoring, improving automation and transparency.</li>
+        <li><strong>📢 Consulting & Insights:</strong> Conducting independent analysis, generating insights, and collaborating with clients to optimize compliance workflows.</li>
+    </ul>
 
 
 
