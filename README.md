@@ -83,6 +83,7 @@ I've had the privilege of working with some amazing global clients. Here's a sho
     <img src="https://img.shields.io/badge/TFOB-FF5722?style=flat&logo=shopping-bag&logoColor=white" alt="TFOB"/> |
     <img src="https://img.shields.io/badge/IQPC-2c3e50?style=flat&logo=building&logoColor=white" alt="IQPC"/> |
     <img src="https://img.shields.io/badge/Wave%20Financial-00bcd4?style=flat&logo=credit-card&logoColor=white" alt="Wave Financial"/>
+    <img src="https://img.shields.io/badge/Wedbush%20Securities-00897b?style=flat&logo=security&logoColor=white" alt="Wedbush Securities"/> |
 </div>
 
 
