@@ -21,21 +21,22 @@
 
 <p align="center">
   <a href="https://iamnagrecha.github.io/">
-    <img src="https://img.shields.io/badge/-Website-4C8BF5?style=flat-square&logo=GoogleChrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Website-4C8BF5?style=flat&logo=GoogleChrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:abhishek.nagrecha.an@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>  
   <a href="https://www.linkedin.com/in/iamnagrecha/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@iamnagrecha">
-    <img src="https://img.shields.io/badge/-Medium-BD081C?style=flat-square&logo=Medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/>
   </a>  
   <a href="https://x.com/iamnagrecha">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
+
 
 
 
