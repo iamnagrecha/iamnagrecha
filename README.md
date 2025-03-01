@@ -27,13 +27,13 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>  
   <a href="https://www.linkedin.com/in/iamnagrecha/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@iamnagrecha">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white&logoWidth=20" alt="Medium"/>
   </a>  
   <a href="https://x.com/iamnagrecha">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white&logoWidth=20" alt="X"/>
   </a>
 </p>
 
