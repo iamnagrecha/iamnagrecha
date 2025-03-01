@@ -20,6 +20,9 @@
 <h2 align="center"> 🌎 Find me around the web </h2>
 
 <p align="center">
+    <a href="https://iamnagrecha.github.io/">
+    <img src="https://img.shields.io/badge/-Website-4C8BF5?style=flat&logo=GoogleChrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:abhishek.nagrecha.an@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>  
@@ -32,10 +35,8 @@
   <a href="https://x.com/iamnagrecha">
     <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://iamnagrecha.github.io/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Github&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
+
 
 ---
 
