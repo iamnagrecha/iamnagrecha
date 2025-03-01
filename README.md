@@ -26,10 +26,9 @@
   <a href="mailto:abhishek.nagrecha.an@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>  
-<a href="https://www.linkedin.com/in/iamnagrecha/" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16" height="16" style="margin-right: 5px;"/>
-  <span style="color: white; background-color: #0077B5; padding: 5px 10px; border-radius: 5px; font-family: Arial, sans-serif; font-size: 14px;">LinkedIn</span>
-</a>
+  <a href="https://www.linkedin.com/in/iamnagrecha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
+  </a>
   <a href="https://medium.com/@iamnagrecha">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white&logoWidth=20" alt="Medium"/>
   </a>  
