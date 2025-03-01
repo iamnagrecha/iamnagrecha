@@ -29,9 +29,12 @@
   <a href="https://medium.com/@iamnagrecha">
     <img src="https://img.shields.io/badge/-Medium-BD081C?style=flat&logo=Medium&logoColor=white" alt="Medium"/>
   </a>  
-<a href="https://x.com/iamnagrecha">
-  <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
-</a>
+  <a href="https://x.com/iamnagrecha">
+    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://iamnagrecha.github.io/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Github&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
