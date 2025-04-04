@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  🚀 Passionate about Data Science | 💡 Driven by Technology | 📖 Lifelong Learner | Focused on Solving Real-World Problems
+  🔍 Exploring AI & Data Science | 🚀 Innovating with Technology | 📚 Always Learning | 💡 Solving Real-World Challenges  
 </p>
 
 ---
