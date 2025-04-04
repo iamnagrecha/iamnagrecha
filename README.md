@@ -83,16 +83,9 @@ I've had the privilege of working with leading global brands across finance, tec
 
 ---
 
-## &#x1f4c8; GitHub Statistics
+## &#x1f4c8; 📈 GitHub Statistics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamnagrecha&show_icons=true&&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&langs_count=8"/>
-</a>
-<!-- <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnagrecha&" alt="iamnagrecha" /></p>    -->
-</p>
+<p align="center"> <a href="https://github.com/iamnagrecha"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/> </a> </p> <!-- Optional Streak Stats --> <!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnagrecha&theme=radical" alt="GitHub Streak"/> </p> -->
 
 
 
