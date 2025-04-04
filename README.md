@@ -44,7 +44,7 @@
 
 
 <h2 align="center"> 💼 Expertise & Specializations </h2>
-
+<div align="center"> <img src="https://img.shields.io/badge/AML%20&%20Compliance-Banking-blueviolet?style=for-the-badge&logo=bank&logoColor=white" alt="AML & Compliance Badge"/> <img src="https://img.shields.io/badge/Data%20Analytics%20&%20Mapping-Insights-4caf50?style=for-the-badge&logo=chart-bar&logoColor=white" alt="Data Analytics Badge"/> <img src="https://img.shields.io/badge/Cloud%20&%20Big%20Data-Azure-2196f3?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge"/> <img src="https://img.shields.io/badge/API%20Testing-Swagger%20%7C%20Postman-ff9800?style=for-the-badge&logo=swagger&logoColor=white" alt="API Badge"/> <img src="https://img.shields.io/badge/Automation%20%26%20Pipelines-Risk%20Scoring-e91e63?style=for-the-badge&logo=fastapi&logoColor=white" alt="Automation Badge"/> <img src="https://img.shields.io/badge/Consulting%20%26%20Insights-Workflow%20Optimization-9c27b0?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Consulting Badge"/> </div>
 
 - **🏦 AML & Compliance Solutions:**  
   Implementing end-to-end AML solutions for banks and financial institutions.
