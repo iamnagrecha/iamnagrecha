@@ -4,26 +4,26 @@
   </a>
 </h1>
 
-<!-- GitHub Profile Header - 2025 Style -->
+<!-- Compact GitHub Profile Header -->
 <div align="center">
 
-  <!-- Profile Views Counter -->
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-  <!-- GitHub Followers Badge -->
+  <!-- GitHub Followers -->
   <a href="https://github.com/iamnagrecha">
     <img src="https://img.shields.io/github/followers/iamnagrecha?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 
-  <!-- GitHub Stats (optional but trendy) -->
+  <!-- Stats Card -->
   <br><br>
   <a href="https://github.com/iamnagrecha">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&hide_title=true&hide_border=true&theme=transparent&count_private=true" width="60%" alt="GitHub Stats" />
   </a>
 
-  <!-- Trophy Section (optional but popular) -->
+  <!-- Optional: Mini Trophy Row -->
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=iamnagrecha&theme=flat&no-frame=true&margin-w=10&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnagrecha&theme=flat&no-frame=true&margin-w=10&column=3&title=Followers,Stars,Commits" width="60%" alt="GitHub Achievements" />
 
 </div>
 
