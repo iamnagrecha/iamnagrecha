@@ -15,11 +15,6 @@
     <img src="https://img.shields.io/github/followers/iamnagrecha?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 
-  <!-- Stats Card -->
-  <br><br>
-  <a href="https://github.com/iamnagrecha">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&hide_title=true&hide_border=true&theme=transparent&count_private=true" width="60%" alt="GitHub Stats" />
-  </a>
 
   <!-- Optional: Mini Trophy Row -->
   <br>
