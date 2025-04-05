@@ -4,55 +4,51 @@
   </a>
 </h1>
 
-<!-- Compact GitHub Profile Header -->
+<!-- ⚡ Modern & Trendy GitHub Profile Header -->
 <div align="center">
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Views&color=6f42c1&style=flat-square" alt="Profile Views" />
 
-  <!-- GitHub Followers -->
+  <!-- GitHub Follow Button -->
   <a href="https://github.com/iamnagrecha">
     <img src="https://img.shields.io/github/followers/iamnagrecha?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 
-
-  <!-- Optional: Mini Trophy Row -->
+  <!-- GitHub Trophies (Minimal Style) -->
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=iamnagrecha&theme=flat&no-frame=true&margin-w=10&column=3&title=Followers,Stars,Commits" width="60%" alt="GitHub Achievements" />
 
 </div>
 
+<!-- ✨ Quick Bio -->
 <p align="center">
-  🔍 Exploring AI & Data Science | 🚀 Innovating with Technology | 📚 Always Learning | 💡 Solving Real-World Challenges  
+  ⚙️ Building with Code | 🤖 Passionate about AI & ML | 🌱 Learning Relentlessly | 🧩 Making Impact through Tech
 </p>
 
 ---
 
-<h2 align="center"> 🌎 Find me around the web </h2>
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-<a href="https://iamnagrecha.github.io/">
-  <img src="https://img.shields.io/badge/Visit-Portfolio-blueviolet?style=flat&logo=Firefox&logoColor=white" alt="Portfolio"/>
-</a>
+  <a href="https://iamnagrecha.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_now-6f42c1?style=flat&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:abhishek.nagrecha.an@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
-  </a>  
-<a href="https://www.linkedin.com/in/iamnagrecha/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+    <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamnagrecha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://medium.com/@iamnagrecha">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white&logoWidth=20" alt="Medium"/>
-  </a>  
+    <img src="https://img.shields.io/badge/Medium-Read_My_Articles-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
+  </a>
   <a href="https://x.com/iamnagrecha">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white&logoWidth=20" alt="X"/>
+    <img src="https://img.shields.io/badge/X-Thoughts%20%26%20Threads-000000?style=flat&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
-
-
-
 ---
-
 
 <h2 align="center"> 💼 Expertise & Specializations </h2>
 
