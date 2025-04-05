@@ -20,13 +20,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=iamnagrecha&theme=flat&no-frame=true&margin-w=10&column=3&title=Followers,Stars,Commits" width="60%" alt="GitHub Achievements" />
 
 </div>
-
 <!-- ✨ Quick Bio -->
-<p align="center">
-  ⚙️ Building with Code | 🤖 Passionate about AI & ML | 🌱 Learning Relentlessly | 🧩 Making Impact through Tech
-</p>
-
----
+<div align="center">
+  <img src="https://img.shields.io/badge/⚙️%20Building%20with%20Code-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML%20Enthusiast-9cf?style=for-the-badge&logo=OpenAI&logoColor=black" />
+  <img src="https://img.shields.io/badge/🌱%20Always%20Learning-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/💡%20Solving%20Real%20Problems-ff69b4?style=for-the-badge&logo=codewars&logoColor=white" />
+</div>
 
 <h2 align="center">🌐 Connect with Me</h2>
 
