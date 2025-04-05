@@ -4,12 +4,28 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+<!-- GitHub Profile Header - 2025 Style -->
+<div align="center">
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+  <!-- GitHub Followers Badge -->
   <a href="https://github.com/iamnagrecha">
-    <img src="https://img.shields.io/github/followers/iamnagrecha?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/iamnagrecha?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-</p>
+
+  <!-- GitHub Stats (optional but trendy) -->
+  <br><br>
+  <a href="https://github.com/iamnagrecha">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" />
+  </a>
+
+  <!-- Trophy Section (optional but popular) -->
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnagrecha&theme=flat&no-frame=true&margin-w=10&column=6" alt="Trophies" />
+
+</div>
 
 <p align="center">
   🔍 Exploring AI & Data Science | 🚀 Innovating with Technology | 📚 Always Learning | 💡 Solving Real-World Challenges  
