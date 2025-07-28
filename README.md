@@ -90,19 +90,16 @@ I've had the privilege of working with leading global brands across finance, tec
 
 ---
 
-<h3 align="center">📊 GitHub Activity Overview</h3>
+### 📊 GitHub Activity Overview
 
-<!-- GitHub Stats and Most Used Languages -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&count_private=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=default&langs_count=8" width="48%" />
 </p>
 
-<!-- GitHub Streaks -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=iamnagrecha&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=iamnagrecha&theme=default&hide_border=true" width="96%" />
 </p>
-
 
 [website]: https://iamnagrecha.github.io/
 [work]: https://iamnagrecha.github.io/#section-portfolio
