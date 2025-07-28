@@ -90,26 +90,25 @@ I've had the privilege of working with leading global brands across finance, tec
 
 ---
 
-## &#x1f4c8; GitHub Statistics
+<!-- Heading -->
+<h3 align="center">📊 GitHub Stats Overview</h3>
 
-<!-- GitHub Stats, Top Languages, and Streak (clean, light-mode setup) -->
-<h3 align="center">📊 GitHub Statistics</h3>
-
+<!-- GitHub Readme Stats + Top Languages -->
 <p align="center">
   <a href="https://github.com/iamnagrecha">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/iamnagrecha">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=default" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=default" alt="Top Languages" />
   </a>
 </p>
 
+<!-- GitHub Streaks -->
 <p align="center">
   <a href="https://github.com/iamnagrecha">
     <img src="https://streak-stats.demolab.com/?user=iamnagrecha&theme=default&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-
 
 
 
