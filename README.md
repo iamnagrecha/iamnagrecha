@@ -99,7 +99,7 @@ I've had the privilege of working with leading global brands across finance, tec
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnagrecha&theme=light" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnagrecha&theme=github-light" alt="GitHub Contribution Graph" />
 </p>
 
 
