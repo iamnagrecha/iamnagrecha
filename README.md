@@ -92,7 +92,25 @@ I've had the privilege of working with leading global brands across finance, tec
 
 ## &#x1f4c8; GitHub Statistics
 
-<p align="center"> <a href="https://github.com/iamnagrecha"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=donut&langs_count=8&theme=graywhite" alt="Top Languages"/> </a> </p> <p align="center"> <a href="https://github.com/iamnagrecha"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnagrecha&theme=light" alt="GitHub Streak"/> </a> </p>
+<!-- GitHub Stats, Top Languages (Donut Chart), and Streak Stats -->
+<p align="center">
+  <a href="https://github.com/iamnagrecha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=12" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=donut&langs_count=8&theme=tokyonight&border_radius=12" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iamnagrecha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=iamnagrecha&repo=your-best-project&theme=tokyonight&border_radius=12" alt="Featured Project" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iamnagrecha">
+    <img src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&hide=stars&count_private=true&theme=tokyonight&hide_rank=false&custom_title=🔥%20Weekly%20GitHub%20Activity" alt="Activity Tracker"/>
+  </a>
+</p>
 
 
 
