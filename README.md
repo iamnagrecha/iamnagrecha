@@ -92,23 +92,21 @@ I've had the privilege of working with leading global brands across finance, tec
 
 ## &#x1f4c8; GitHub Statistics
 
-<!-- GitHub Stats and Top Languages in a sleek, side-by-side layout -->
 <p align="center">
   <a href="https://github.com/iamnagrecha">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&count_private=true&theme=default&border_radius=8" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/iamnagrecha">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&langs_count=8&theme=default&border_radius=8" alt="Top Languages" />
   </a>
 </p>
 
-<!-- GitHub Streaks (reliable version) -->
+<!-- GitHub Streaks (light, working version) -->
 <p align="center">
   <a href="https://github.com/iamnagrecha">
-    <img src="https://streak-stats.demolab.com/?user=iamnagrecha&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=iamnagrecha&theme=default&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-
 
 
 
