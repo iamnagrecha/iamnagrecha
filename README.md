@@ -1,50 +1,49 @@
+<!-- 🌟 Sleek GitHub Profile Header -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello,+I'm+Abhishek+Nagrecha;Data+Science+Specialist+📊;Turning+Data+into+Insights+📈;Solving+Complex+Business+Challenges">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Abhishek+Nagrecha;Data+Science+Specialist+📊;Turning+Data+into+Insights+📈;Solving+Business+Challenges" alt="Typing Intro" />
 </h1>
 
-<!-- ⚡ Modern & Trendy GitHub Profile Header -->
+<!-- 📊 Stats + Trophies -->
 <div align="center">
-
+  
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Views&color=6f42c1&style=flat-square" alt="Profile Views" />
-
-  <!-- GitHub Follow Button -->
+  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  
+  <!-- Followers -->
   <a href="https://github.com/iamnagrecha">
     <img src="https://img.shields.io/github/followers/iamnagrecha?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-
-  <!-- GitHub Trophies (Minimal Style) -->
+  
+  <!-- GitHub Trophies -->
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=iamnagrecha&theme=flat&no-frame=true&margin-w=10&column=3&title=Followers,Stars,Commits" width="60%" alt="GitHub Achievements" />
-
-</div>
-<!-- ✨ Quick Bio -->
-<div align="center">
-  <img src="https://img.shields.io/badge/⚙️%20Building%20with%20Code-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML%20Enthusiast-9cf?style=for-the-badge&logo=OpenAI&logoColor=black" />
-  <img src="https://img.shields.io/badge/🌱%20Always%20Learning-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/💡%20Solving%20Real%20Problems-ff69b4?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnagrecha&theme=flat&no-frame=true&margin-w=10&column=3&title=Followers,Stars,Commits" width="60%" alt="GitHub Trophies" />
 </div>
 
-<h2 align="center">🌐 Connect with Me</h2>
+<!-- 💡 Quick Tags -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/⚙️%20Building%20with%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML%20Enthusiast-5C2D91?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌱%20Always%20Learning-27AE60?style=for-the-badge&logo=Udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/💡%20Solving%20Real%20Problems-F39C12?style=for-the-badge&logo=HackTheBox&logoColor=white" />
+</div>
 
+<!-- 🌐 Connect With Me -->
+<h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://iamnagrecha.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_now-6f42c1?style=flat&logo=firefox&logoColor=white" alt="Portfolio" />
+  <a href="https://iamnagrecha.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-6f42c1?style=flat&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:abhishek.nagrecha.an@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/iamnagrecha/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@iamnagrecha">
-    <img src="https://img.shields.io/badge/Medium-Read_My_Articles-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat&logo=medium&logoColor=white" />
   </a>
   <a href="https://x.com/iamnagrecha">
-    <img src="https://img.shields.io/badge/X-Thoughts%20%26%20Threads-000000?style=flat&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-Tweets-000000?style=flat&logo=x&logoColor=white" />
   </a>
 </p>
 
