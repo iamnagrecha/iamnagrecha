@@ -14,10 +14,6 @@
     <img src="https://img.shields.io/github/followers/iamnagrecha?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   
-  <!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=iamnagrecha&theme=react&hide_border=true" width="60%" alt="GitHub Streak" />
-</div>
 </div>
 
 <!-- 💡 Quick Tags -->
@@ -97,10 +93,10 @@ I've had the privilege of working with leading global brands across finance, tec
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=default&langs_count=6" alt="Top Languages" />
 </p>
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnagrecha&theme=github-light" alt="GitHub Contribution Graph" />
-</p>
+<!-- GitHub Streak (Light Theme) -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iamnagrecha&theme=default&hide_border=true" width="60%" alt="GitHub Streak" />
+</div>
 
 
 [website]: https://iamnagrecha.github.io/
