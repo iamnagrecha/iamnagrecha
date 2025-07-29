@@ -15,8 +15,9 @@
   </a>
   
   <!-- GitHub Trophies -->
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=iamnagrecha&theme=flat&no-frame=true&margin-w=10&column=3&title=Followers,Stars,Commits" width="60%" alt="GitHub Trophies" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iamnagrecha&theme=react&hide_border=true" width="60%" alt="GitHub Streak" />
+</div>
 </div>
 
 <!-- 💡 Quick Tags -->
