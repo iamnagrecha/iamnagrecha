@@ -76,9 +76,6 @@ I've had the privilege of working with leading global brands across finance, tec
 </div>
 
 
-<!-- Professional Links --> <p align="center"> <a href="https://iamnagrecha.github.io/" target="_blank">🌐 Website</a> &nbsp;|&nbsp; <a href="https://iamnagrecha.github.io/#section-portfolio" target="_blank">💼 Work</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/nagrechaabhishek/" target="_blank">🔗 LinkedIn</a> &nbsp;|&nbsp; <a href="https://twitter.com/iamnagrecha" target="_blank">🐦 Twitter</a> &nbsp;|&nbsp; <a href="https://www.instagram.com/iamnagrecha/" target="_blank">📸 Instagram</a> </p>
-
-
 
 
 
