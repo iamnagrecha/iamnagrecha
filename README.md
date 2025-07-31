@@ -44,30 +44,7 @@
   </a>
 </p>
 
----
-
-<h2 align="center"> 💼 Expertise & Specializations </h2>
-
-
-- **🏦 AML & Compliance Solutions:**  
-  Implementing end-to-end AML solutions for banks and financial institutions.
-
-- **📊 Data Analytics & Mapping:**  
-  Developing batch & real-time analytics for Sanction Screening, Transaction Monitoring, Regulatory Reporting (FINTRAC STRs, CNBV, LCTRs), and Entity Resolution.
-
-- **☁ Cloud & Big Data:**  
-  Working with Azure and Cosmos DB to build scalable real-time transaction monitoring solutions.
-
-- **🔍 API & Testing:**  
-  Testing RESTful APIs for Screening and CLEARID Confirm using Swagger & Postman.
-
-- **🚀 Automation & Pipelines:**  
-  Setting up end-to-end data pipelines for entity resolution, screening, transaction monitoring, and risk scoring, improving automation and transparency.
-
-- **📢 Consulting & Insights:**  
-  Conducting independent analysis, generating insights, and collaborating with clients to optimize compliance workflows.
-
----
+<h2 align="center">💼 Expertise & Specializations</h2> <ul> <li><strong>🏦 AML & Compliance Solutions</strong><br> Designing and implementing end-to-end AML systems for banks and financial institutions, ensuring robust compliance frameworks.</li><br> <li><strong>📊 Data Analytics & Mapping</strong><br> Building batch and real-time analytics pipelines for Sanction Screening, Transaction Monitoring, Regulatory Reporting (e.g., FINTRAC STRs, CNBV, LCTRs), and Entity Resolution.</li><br> <li><strong>☁ Cloud & Big Data</strong><br> Developing scalable real-time monitoring solutions using Azure and Cosmos DB, optimized for performance and reliability.</li><br> <li><strong>🔍 API Integration & Testing</strong><br> Validating RESTful APIs for Screening and CLEARID Confirm using tools like Swagger and Postman for seamless integration.</li><br> <li><strong>🚀 Automation & Data Pipelines</strong><br> Orchestrating end-to-end pipelines for entity resolution, screening, monitoring, and risk scoring to enhance automation and transparency.</li><br> <li><strong>📢 Strategic Consulting & Insights</strong><br> Delivering independent analyses, actionable insights, and partnering with stakeholders to streamline and strengthen compliance operations.</li> </ul>
 
 
 
