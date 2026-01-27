@@ -3,48 +3,46 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Abhishek+Nagrecha;Data+Science+Specialist+📊;Turning+Data+into+Insights+📈;Solving+Business+Challenges" alt="Typing Intro" />
 </h1>
 
-<!-- 📊 Stats + Trophies -->
 <div align="center">
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  
-  <!-- Followers -->
-  <a href="https://github.com/iamnagrecha">
-    <img src="https://img.shields.io/github/followers/iamnagrecha?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhishek%20Nagrecha&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
-<!-- 💡 Quick Tags -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/⚙️%20Building%20with%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML%20Enthusiast-5C2D91?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌱%20Always%20Learning-27AE60?style=for-the-badge&logo=Udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/💡%20Solving%20Real%20Problems-F39C12?style=for-the-badge&logo=HackTheBox&logoColor=white" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&theme=transparent&hide_border=true&title_color=6f42c1&icon_color=007ACC&text_color=ffffff&bg_color=00000000" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=transparent&hide_border=true&title_color=6f42c1&icon_color=007ACC&text_color=ffffff&bg_color=00000000" alt="Languages" height="180px" />
 </div>
 
-<!-- 🌐 Connect With Me -->
-<h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://iamnagrecha.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-6f42c1?style=flat&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:abhishek.nagrecha.an@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/iamnagrecha/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@iamnagrecha">
-    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://x.com/iamnagrecha">
-    <img src="https://img.shields.io/badge/X-Tweets-000000?style=flat&logo=x&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=NODE_VISITS&color=6f42c1&style=plastic" />
 </p>
 
-<h2 align="center">💼 Expertise & Specializations</h2> <ul> <li><strong>🏦 AML & Compliance Solutions</strong><br> Designing and implementing end-to-end AML systems for banks and financial institutions, ensuring robust compliance frameworks.</li><br> <li><strong>📊 Data Analytics & Mapping</strong><br> Building batch and real-time analytics pipelines for Sanction Screening, Transaction Monitoring, Regulatory Reporting (e.g., FINTRAC STRs, CNBV, LCTRs), and Entity Resolution.</li><br> <li><strong>☁ Cloud & Big Data</strong><br> Developing scalable real-time monitoring solutions using Azure and Cosmos DB, optimized for performance and reliability.</li><br> <li><strong>🔍 API Integration & Testing</strong><br> Validating RESTful APIs for Screening and CLEARID Confirm using tools like Swagger and Postman for seamless integration.</li><br> <li><strong>🚀 Automation & Data Pipelines</strong><br> Orchestrating end-to-end pipelines for entity resolution, screening, monitoring, and risk scoring to enhance automation and transparency.</li><br> <li><strong>📢 Strategic Consulting & Insights</strong><br> Delivering independent analyses, actionable insights, and partnering with stakeholders to streamline and strengthen compliance operations.</li> </ul>
+<div align="center" style="margin: 20px 0;">
+  <kbd>🤖 AI-Agent Architect</kbd> | <kbd>🏦 AML Compliance Tech</kbd> | <kbd>☁️ Cloud Automation</kbd>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://iamnagrecha.github.io/"><img src="https://img.shields.io/badge/Neural_Portfolio-6f42c1?style=for-the-badge&logo=retroarch&logoColor=white" /></a>
+  <a href="https://x.com/iamnagrecha"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</div>
+
+---
+
+## 💼 Specialized Engineering
+
+> [!TIP]
+> **2026 Vision:** Blending deep compliance logic with autonomous data pipelines.
+
+| Domain | Innovation & Focus |
+| :--- | :--- |
+| **🏦 AML & Compliance** | End-to-end architectures for global banking (FINTRAC, CNBV). |
+| **🤖 AI & Data Mapping** | Real-time Entity Resolution & Sanction Screening via Azure. |
+| **🔍 API Ecosystems** | Validating CLEARID & Screening via automated Swagger flows. |
+| **🚀 Automation** | High-performance pipelines for Risk Scoring & Regulatory Reporting. |
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnagrecha&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
 
 
 
@@ -74,6 +72,7 @@ I've had the privilege of working with leading global brands across finance, tec
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iamnagrecha&theme=default&hide_border=true" width="60%" alt="GitHub Streak" />
 </div>
+
 
 
 
