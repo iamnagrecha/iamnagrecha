@@ -1,72 +1,35 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6f42c1&center=true&vCenter=true&width=800&lines=ABHISHEK+NAGRECHA;Architecting+AML+Intelligence;Data+Science+Specialist;Global+Fintech+Solutions" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6f42c1&center=true&vCenter=true&width=800&lines=ABHISHEK+NAGRECHA;Architecting+AML+Intelligence;Scaling+Neural+Pipelines;Data+Science+Specialist" alt="Typing Intro" />
 </h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Enterprise%20Data%20%26%20Compliance%20Architecture&fontSize=35&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Building%20the%20Future%20of%20Compliance&fontSize=35&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=iamnagrecha&show_icons=true&theme=transparent&hide_border=true&title_color=6f42c1&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" alt="Stats" height="175px" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=transparent&hide_border=true&title_color=6f42c1&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" alt="Languages" height="175px" />
+  <img src="https://img.shields.io/badge/Current_Focus-Autonomous_AML_Agents-6f42c1?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Deployment_Phase-27AE60?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Remote_Global-007ACC?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=NODE_VISITS&color=6f42c1&style=plastic" />
-</p>
-
-<div align="center" style="margin: 20px 0;">
-  <kbd>🤖 AI-Agent Architect</kbd> | <kbd>🏦 AML Compliance Tech</kbd> | <kbd>☁️ Cloud Automation</kbd>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://iamnagrecha.github.io/"><img src="https://img.shields.io/badge/Neural_Portfolio-6f42c1?style=for-the-badge&logo=retroarch&logoColor=white" /></a>
-  <a href="mailto:abhishek.nagrecha.an@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&theme=transparent&hide_border=true&title_color=6f42c1&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" alt="Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=transparent&hide_border=true&title_color=6f42c1&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" alt="Languages" height="170px" />
 </div>
 
 ---
 
-## 💼 Specialized Engineering
+## ⚡ Specialized Engineering & AI Agentics
 
 > [!IMPORTANT]
-> **Engineering Philosophy:** Scaling autonomous data pipelines with a focus on high-fidelity AML compliance and entity resolution.
+> **2026 Vision:** Transitioning from "Software as a Service" to **"Agent as a Service"** in the AML/Compliance sector.
 
-| Domain | Innovation & Focus | Impact |
+| Focus Area | Core Architecture | Impact |
 | :--- | :--- | :--- |
-| **🏦 AML & Compliance** | End-to-end global banking architectures | FINTRAC, CNBV, LCTR |
-| **🤖 AI & Data Mapping** | Real-time Entity Resolution & Risk Scoring | Azure-native Intelligence |
-| **🔍 API Ecosystems** | Validating CLEARID & Global Screening | Automated Swagger Flows |
-| **🚀 Automation** | High-performance Regulatory Reporting | Scalable Big Data Ops |
-
----
-
-## 🌍 Global Client Impact
-*Comprehensive roster of collaborations across Finance, Web3, and Enterprise Retail.*
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Canadian_Tire_Bank-12100E?style=flat-square&logo=target" />
-  <img src="https://img.shields.io/badge/Fairstone_Bank-12100E?style=flat-square&logo=wise" />
-  <img src="https://img.shields.io/badge/Duo_Bank-12100E?style=flat-square&logo=bank-of-america" />
-  <img src="https://img.shields.io/badge/Exchange_Bank_of_Canada-12100E?style=flat-square&logo=currency-exchange" />
-  <br>
-  <img src="https://img.shields.io/badge/Bitfinex-12100E?style=flat-square&logo=bitfinex" />
-  <img src="https://img.shields.io/badge/Coinsquare-12100E?style=flat-square&logo=bitcoin" />
-  <img src="https://img.shields.io/badge/Pangea_Money_Transfer-12100E?style=flat-square&logo=bitcoinsv" />
-  <img src="https://img.shields.io/badge/Wave_Financial-12100E?style=flat-square&logo=wave" />
-  <br>
-  <img src="https://img.shields.io/badge/Christie's_Auctions-12100E?style=flat-square&logo=artstation" />
-  <img src="https://img.shields.io/badge/Brinks_Canada-12100E?style=flat-square&logo=secure-shell" />
-  <img src="https://img.shields.io/badge/Eden_Park-12100E?style=flat-square&logo=nike" />
-  <img src="https://img.shields.io/badge/Wedbush_Securities-12100E?style=flat-square&logo=strongswan" />
-  <br>
-  <img src="https://img.shields.io/badge/Sellers-12100E?style=flat-square&logo=shopify" />
-  <img src="https://img.shields.io/badge/Pinnacle_Pets-12100E?style=flat-square&logo=pypy" />
-  <img src="https://img.shields.io/badge/Ingles-12100E?style=flat-square&logo=retail-next" />
-  <img src="https://img.shields.io/badge/TFOB-12100E?style=flat-square&logo=spreadshirt" />
-  <img src="https://img.shields.io/badge/IQPC-12100E?style=flat-square&logo=google-classroom" />
-  <img src="https://img.shields.io/badge/Patient_Pay-12100E?style=flat-square&logo=google-pay" />
-</div>
+| **🏦 AML Compliance** | End-to-end Regulatory Pipelines | FINTRAC/CNBV/LCTR Mastery |
+| **🤖 Agentic AI** | RAG-based Entity Resolution | 90% Reduction in False Positives |
+| **☁️ Hybrid Cloud** | Azure + Cosmos DB + Spark | Real-time Transaction Monitoring |
+| **🔍 API Ecosystems** | CLEARID & Screening Integration | Automated Swagger-driven Testing |
 
 ---
 
@@ -81,14 +44,46 @@
   <tr>
     <td align="center">Python • PyTorch<br>Scikit-learn • OpenCV</td>
     <td align="center">Azure • AWS • GCP<br>Docker • Hadoop</td>
-    <td align="center">.NET • Spring • Node<br>React • MongoDB • MSSQL</td>
+    <td align="center">.NET • Spring • Node<br>React • MongoDB</td>
   </tr>
 </table>
 
 ---
 
-## 📊 Activity Velocity
+## 🌍 Global Client Impact & Partnerships
+*Collaborations across Banking, Fintech, and Luxury Auctions.*
+
+<div align="center">
+  <p><strong>🏦 Banking & Fintech</strong></p>
+  <img src="https://img.shields.io/badge/Canadian_Tire_Bank-000000?style=for-the-badge&logo=bank-of-america&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fairstone_Bank-000000?style=for-the-badge&logo=monzo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Duo_Bank-000000?style=for-the-badge&logo=n26&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exchange_Bank-000000?style=for-the-badge&logo=starlingbank&logoColor=white" />
+  <br>
+  <p><strong>₿ Web3 & Payments</strong></p>
+  <img src="https://img.shields.io/badge/Bitfinex-000000?style=for-the-badge&logo=bitfinex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coinsquare-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pangea_Money-000000?style=for-the-badge&logo=wise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wave_Financial-000000?style=for-the-badge&logo=wave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Patient_Pay-000000?style=for-the-badge&logo=googlepay&logoColor=white" />
+  <br>
+  <p><strong>🏢 Enterprise & Specialist</strong></p>
+  <img src="https://img.shields.io/badge/Christie's-000000?style=for-the-badge&logo=artstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brinks_Canada-000000?style=for-the-badge&logo=secure-shell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eden_Park-000000?style=for-the-badge&logo=nike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wedbush-000000?style=for-the-badge&logo=strongswan&logoColor=white" />
+  <img src="https://img.shields.io/badge/IQPC-000000?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+</div>
+
+---
+
+## 📈 Activity Velocity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnagrecha&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/Network_on_LinkedIn-0077B5?style=social&logo=linkedin" /></a>
+  <a href="mailto:abhishek.nagrecha.an@gmail.com"><img src="https://img.shields.io/badge/Direct_Inquiry-D14836?style=social&logo=gmail" /></a>
 </div>
