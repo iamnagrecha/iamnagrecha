@@ -4,6 +4,10 @@
 
 <div align="center">
   <p>
+    <strong>AML & Data Architect | 5+ YOE in Compliance & Risk | AWS CCP | Automating with Python, SQL & Tableau</strong><br>
+    <em>Expert AML & Données | 5+ ans Exp. Conformité & Risque | AWS CCP</em>
+  </p>
+  <p>
     I help financial institutions <strong>𝐭𝐮𝐫𝐧 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐝𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐚𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬.</strong><br>
     I deliver <strong>𝐞𝐧𝐝-𝐭𝐨-𝐞𝐧𝐝 𝐀𝐌𝐋 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬</strong>, real-time transaction monitoring, and risk scoring.<br>
     I thrive in dynamic environments, ensuring <strong>𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲</strong> through organizational changes.
@@ -106,6 +110,3 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=iamnagrecha&label=NODE_SESSIONS&color=6f42c1&style=flat-square" />
 </div>
-
-
-
