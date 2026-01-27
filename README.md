@@ -1,8 +1,3 @@
-To make this profile "excellent" by 2026 standards, we’re adding Interactive Dynamic Elements. Specifically, I’ve added a "Live Project Status" board (simulating real-time updates), an "AI Agent Capabilities" radar, and a "Neural Network" themed contribution graph.
-
-I’ve also refined the Wall of Trust to look like a premium enterprise partner grid with subtle icons.
-
-HTML
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6f42c1&center=true&vCenter=true&width=800&lines=ABHISHEK+NAGRECHA;Architecting+AML+Intelligence;Scaling+Neural+Pipelines;Data+Science+Specialist" alt="Typing Intro" />
 </h1>
@@ -92,3 +87,4 @@ HTML
   <a href="https://www.linkedin.com/in/iamnagrecha/"><img src="https://img.shields.io/badge/Network_on_LinkedIn-0077B5?style=social&logo=linkedin" /></a>
   <a href="mailto:abhishek.nagrecha.an@gmail.com"><img src="https://img.shields.io/badge/Direct_Inquiry-D14836?style=social&logo=gmail" /></a>
 </div>
+
