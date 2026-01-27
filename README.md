@@ -1,3 +1,8 @@
+My apologies! When it comes to a high-profile client list, we definitely shouldn't leave anyone out. In 2026, the trend for displaying large client rosters is the "Enterprise Grid"—it's cleaner than a pile of colorful badges and looks like a professional "Partners" page on a high-end tech site.
+
+I have reintegrated every single client from your list into a sleek, unified, dark-themed grid that won't overwhelm the eye.
+
+HTML
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Abhishek+Nagrecha;Data+Science+Specialist+📊;Turning+Data+into+Insights+📈;Solving+Business+Challenges" alt="Typing Intro" />
 </h1>
@@ -42,21 +47,35 @@
 ---
 
 ## 🌍 Global Client Impact
-*Trusted by leaders in Finance, Web3, and Enterprise.*
+*Comprehensive roster of collaborations across Finance, Web3, and Enterprise Retail.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Pangea_Money-333333?style=flat-square&logo=bitcoinsv" />
-  <img src="https://img.shields.io/badge/-Coinsquare-333333?style=flat-square&logo=bitcoin" />
-  <img src="https://img.shields.io/badge/-Bitfinex-333333?style=flat-square&logo=bitfinex" />
-  <img src="https://img.shields.io/badge/-Brinks_Canada-333333?style=flat-square&logo=anchor" />
-  <img src="https://img.shields.io/badge/-Wave_Financial-333333?style=flat-square&logo=wave" />
-  <img src="https://img.shields.io/badge/-Canadian_Tire_Bank-333333?style=flat-square&logo=target" />
-  <img src="https://img.shields.io/badge/-Christie's-333333?style=flat-square&logo=artstation" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Pangea_Money_Transfer-1F425F?style=flat-square&logo=bitcoin" />
+  <img src="https://img.shields.io/badge/Christie's_Auctions-1F425F?style=flat-square&logo=artstation" />
+  <img src="https://img.shields.io/badge/Eden_Park-1F425F?style=flat-square&logo=nike" />
+  <img src="https://img.shields.io/badge/Coinsquare-1F425F?style=flat-square&logo=blockchain.com" />
+  <img src="https://img.shields.io/badge/Sellers-1F425F?style=flat-square&logo=shopify" />
+  <br>
+  <img src="https://img.shields.io/badge/Pinnacle_Pets-1F425F?style=flat-square&logo=pypy" />
+  <img src="https://img.shields.io/badge/Brinks_Canada-1F425F?style=flat-square&logo=secure-shell" />
+  <img src="https://img.shields.io/badge/Bitfinex-1F425F?style=flat-square&logo=bitfinex" />
+  <img src="https://img.shields.io/badge/Canadian_Tire_Bank-1F425F?style=flat-square&logo=target" />
+  <img src="https://img.shields.io/badge/Fairstone_Bank-1F425F?style=flat-square&logo=wise" />
+  <br>
+  <img src="https://img.shields.io/badge/Duo_Bank-1F425F?style=flat-square&logo=bank-of-america" />
+  <img src="https://img.shields.io/badge/Exchange_Bank_of_Canada-1F425F?style=flat-square&logo=currency-exchange" />
+  <img src="https://img.shields.io/badge/Ingles-1F425F?style=flat-square&logo=retail-next" />
+  <img src="https://img.shields.io/badge/TFOB-1F425F?style=flat-square&logo=spreadshirt" />
+  <img src="https://img.shields.io/badge/IQPC-1F425F?style=flat-square&logo=google-classroom" />
+  <br>
+  <img src="https://img.shields.io/badge/Wave_Financial-1F425F?style=flat-square&logo=wave" />
+  <img src="https://img.shields.io/badge/Wedbush_Securities-1F425F?style=flat-square&logo=strongswan" />
+  <img src="https://img.shields.io/badge/Patient_Pay-1F425F?style=flat-square&logo=google-pay" />
+</div>
 
 ---
 
-## 🔧 Neural Tech Stack
+## 🔧 Tech Stack Architectures
 
 ### 🧠 Intelligence & Backend
 `Python` `PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `C#` `.NET` `Java` `Spring`
