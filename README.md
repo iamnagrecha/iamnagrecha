@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=iamnagrecha&show_icons=true&theme=transparent&hide_border=true&title_color=6f42c1&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" alt="Stats" height="175px" />
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=transparent&hide_border=true&title_color=6f42c1&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" alt="Languages" height="175px" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=iamnagrecha&show_icons=true&theme=transparent&hide_border=true&title_color=6f42c1&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" alt="Stats" height="175px" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=transparent&hide_border=true&title_color=6f42c1&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" alt="Languages" height="175px" />
 </div>
 
 <p align="center">
@@ -87,10 +87,8 @@
 
 ---
 
-## 📈 Activity Velocity
+## 📊 Activity Velocity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnagrecha&theme=react-dark&hide_border=true&area=true" width="100%" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=iamnagrecha&theme=transparent&hide_border=true&stroke=6f42c1&ring=36BCF7&fire=36BCF7" width="80%" alt="GitHub Streak" />
 </div>
