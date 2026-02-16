@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    <strong>AML & Data Architect | 5+ YOE in Compliance & Risk | AWS Certified</strong><br>
+    <strong>AML & Data Analytics Specialist | 5+ YOE in Compliance & RegTech | AWS Certified</strong><br>
     <em>Specializing in scalable AML solutions, automated transaction monitoring, and risk-scoring engines.</em>
   </p>
   <p>
@@ -80,6 +80,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnagrecha&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
+
 
 
 
