@@ -54,7 +54,7 @@
 `Canadian Tire Bank` • `Fairstone Bank` • `Duo Bank` • `Bitfinex` • `Coinsquare` • `Pangea Money` • `Wave Financial`
 
 **Enterprise & Specialized Services**
-`Christie's` • `Brinks Canada` • `Wedbush Securities` • `Eden Park` • `IQPC` • `Shopify Ecosystem`
+`Christie's` • `Brinks Canada` • `Wedbush Securities` • `Eden Park` • `IQPC` • `Independent Pets Holdings`
 
 ---
 
@@ -80,5 +80,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnagrecha&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
+
 
 
