@@ -26,7 +26,7 @@
 
 ## 🎯 Strategic Focus
 
-> **Core Mission:** Leveraging Cloud-native architecture and Machine Learning to mitigate financial crime and streamline regulatory reporting (FINTRAC, CNBV, LCTR).
+> **Core Mission:** Leveraging Cloud-native architecture and Machine Learning to mitigate financial crime and streamline regulatory reporting (FINCEN, FINTRAC).
 
 <div align="center">
   <img src="https://img.shields.io/badge/Specialization-AML_Architecture-6f42c1?style=flat-square" />
@@ -40,7 +40,7 @@
 
 | Domain | Solutions Delivered | Regulatory Standards |
 | :--- | :--- | :--- |
-| **🏦 Financial Crimes** | Automated Transaction Monitoring & AML Pipelines | FINTRAC, CNBV, LCTR |
+| **🏦 Financial Crimes** | Automated Transaction Monitoring & AML Pipelines | FINTRAC, FINCEN, STR & LCTR |
 | **📊 Data Engineering** | Real-time Entity Resolution & Risk Scoring | Python, SQL, Tableau |
 | **☁️ Cloud Infrastructure** | Scalable AWS/Azure Solutions for Fintech | AWS CCP Certified |
 | **🔌 API Integration** | Global Screening & KYC Connectivity | CLEARID, Swagger, REST |
@@ -80,4 +80,5 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnagrecha&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
+
 
