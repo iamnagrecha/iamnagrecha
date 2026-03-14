@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a **compliance-native data engineer** — I don't just build pipelines, I build pipelines that keep financial institutions out of regulatory trouble.
+I'm a **compliance-native data analytics specialist** — I don't just build pipelines, I build pipelines that keep financial institutions out of regulatory trouble.
 
 With **5+ years** spanning AML program design, cloud data architecture, and RegTech implementations, I sit at the intersection where regulatory requirements meet scalable engineering. I've shipped transaction monitoring systems, risk-scoring engines, and KYC integrations for some of Canada's leading banks, fintechs, and crypto exchanges.
 
