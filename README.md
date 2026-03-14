@@ -12,6 +12,12 @@
 <br/>
 
 <div align="center">
+  <em>Always happy to connect with others working at the intersection of data and financial compliance.<br/>
+  Reach out if you want to talk RegTech, AML architecture, or data engineering.</em><br/><br/>
+
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AML_%26_Financial_Crimes-6f42c1?style=flat-square" />
 </div>
@@ -169,10 +175,4 @@ The `BLOG-POST-LIST` comments above will auto-populate with your 3 latest posts 
 
 ---
 
-<div align="center">
-  <em>Always happy to connect with others working at the intersection of data and financial compliance.<br/>
-  Reach out if you want to talk RegTech, AML architecture, or data engineering.</em><br/><br/>
-  <a href="https://www.linkedin.com/in/iamnagrecha/"><strong>→ LinkedIn</strong></a> &nbsp;|&nbsp;
-  <a href="https://iamnagrecha.github.io/"><strong>→ Portfolio</strong></a> &nbsp;|&nbsp;
-  <a href="mailto:abhishek.nagrecha.an@gmail.com"><strong>→ Email</strong></a>
-</div>
+
