@@ -1,178 +1,140 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6f42c1&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Abhishek+Nagrecha+%F0%9F%91%8B;Data+Analytics+Specialist;Turning+Regulatory+Risk+into+Engineered+Solutions;AWS+Certified+%7C+5%2B+Years+in+FinCrime+%26+RegTech" alt="Abhishek Nagrecha" />
-</h1>
+<h1 align="center">Abhishek Nagrecha</h1>
 
-<div align="center">
-  <a href="https://iamnagrecha.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/iamnagrecha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abhishek.nagrecha.an@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://iamnagrecha.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</div>
+<p align="center">
+  Data Analytics Specialist · AML & RegTech<br/>
+  Turning regulatory risk into engineered solutions
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://iamnagrecha.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/iamnagrecha/">LinkedIn</a> ·
+  <a href="mailto:abhishek.nagrecha.an@gmail.com">Email</a> ·
+  <a href="https://iamnagrecha.medium.com/">Medium</a>
+</p>
 
-<div align="center">
-  <em>Always happy to connect with others working at the intersection of data and financial compliance.<br/>
-  Reach out if you want to talk RegTech, AML architecture, or data engineering.</em><br/><br/>
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AML_%26_Financial_Crimes-6f42c1?style=flat-square" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/5%2B_Years-AML_%26_RegTech-6f42c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Data_%2B_Compliance-2C3E50?style=flat-square" />
+</p>
 
 ---
 
 ## About Me
 
-I'm a **compliance-native data analytics specialist** — I don't just build pipelines, I build pipelines that keep financial institutions out of regulatory trouble.
+I’m a compliance-native data analytics specialist — I build systems that don’t just move data, they reduce regulatory risk.
 
-With **5+ years** spanning AML program design, cloud data architecture, and RegTech implementations, I sit at the intersection where regulatory requirements meet scalable engineering. I've shipped transaction monitoring systems, risk-scoring engines, and KYC integrations for some of Canada's leading banks, fintechs, and crypto exchanges.
+With **5+ years** across AML program design, cloud data architecture, and RegTech delivery, I operate where compliance requirements meet scalable engineering. I’ve built transaction monitoring systems, risk-scoring engines, and KYC integrations for banks, fintechs, and crypto platforms.
 
-> **My edge:** I understand both sides of the table — what a compliance officer needs and what an engineer can realistically build. That translation layer is where most projects fail, and where I add the most value.
+> **My edge:** I translate regulatory intent into production-grade systems. Most projects fail in that gap — that’s where I create impact.
 
 ---
 
-## 🔍 What I Actually Build
+## ⚡ Featured Impact
 
-| Problem | What I Deliver |
+- Designed AML transaction monitoring pipelines for high-volume financial data  
+- Built STR/LCTR automation workflows aligned with regulatory expectations  
+- Delivered cloud-native compliance architectures across banks and fintechs  
+- Bridged compliance and engineering teams to reduce delivery gaps  
+
+> Systems regulators trust, engineers can scale.
+
+---
+
+## What I Build
+
+| Problem | Solution |
 |:---|:---|
-| **Suspicious activity goes undetected** | Automated transaction monitoring pipelines with tunable rule engines |
-| **Regulatory filings are slow & error-prone** | End-to-end STR/LCTR automation aligned to FINTRAC & FINCEN standards |
-| **KYC/screening is a manual bottleneck** | API-integrated entity resolution using CLEARID + custom risk scoring |
-| **Data siloed across systems** | Unified cloud data architectures on AWS/Azure for compliance reporting |
-| **Risk models are black boxes** | Explainable ML pipelines built with auditability in mind |
+| Suspicious activity goes undetected | Transaction monitoring pipelines with tunable rule engines |
+| Regulatory filings are slow & error-prone | Automated STR/LCTR workflows aligned with FINTRAC & FINCEN |
+| KYC and screening create operational drag | API-driven entity resolution with integrated risk scoring |
+| Data is fragmented across systems | Unified cloud architectures for compliance reporting |
+| Risk models lack transparency | Explainable ML pipelines with audit-ready outputs |
 
 ---
 
-## 🏦 Institutional Track Record
+## 🏦 Experience Across Regulated Ecosystems
 
-Delivered compliance and data solutions for organizations across regulated industries:
+**Canadian Financial Institutions**  
+Canadian Tire Bank · Fairstone Bank · Duo Bank  
 
-**Canadian Financial Institutions**
-`Canadian Tire Bank` · `Fairstone Bank` · `Duo Bank`
+**Crypto & Fintech**  
+Bitfinex · Coinsquare · Pangea Money Transfer · Wave Financial  
 
-**Crypto & Fintech**
-`Bitfinex` · `Coinsquare` · `Pangea Money Transfer` · `Wave Financial`
-
-**Enterprise & Specialty Finance**
-`Christie's Auction House` · `Brinks Canada` · `Wedbush Securities` · `Eden Park` · `IQPC` · `Independent Pets Holdings`
+**Enterprise & Specialty Finance**  
+Christie’s · Brinks Canada · Wedbush Securities · Eden Park · IQPC · Independent Pets Holdings  
 
 ---
 
 ## 🛠️ Technical Stack
 
-<table>
-  <tr>
-    <td valign="top" width="25%">
-      <strong>Languages & Data</strong><br/><br/>
-      Python · SQL · R<br/>
-      Pandas · NumPy<br/>
-      MSSQL · MongoDB<br/>PostgreSQL
-    </td>
-    <td valign="top" width="25%">
-      <strong>ML & AI</strong><br/><br/>
-      Scikit-learn · PyTorch<br/>
-      OpenCV · NLP<br/>
-      Anomaly Detection<br/>
-      Risk Scoring Models
-    </td>
-    <td valign="top" width="25%">
-      <strong>Cloud & Infra</strong><br/><br/>
-      AWS (Certified) · Azure<br/>
-      GCP · Docker<br/>
-      Hadoop · Spark<br/>
-      Airflow
-    </td>
-    <td valign="top" width="25%">
-      <strong>Software & Viz</strong><br/><br/>
-      .NET · Spring · Node.js<br/>
-      React · REST APIs<br/>
-      Swagger · Tableau<br/>
-      Power BI
-    </td>
-  </tr>
-</table>
+**Languages & Data**  
+Python · SQL · R · Pandas · NumPy · PostgreSQL · MSSQL · MongoDB  
 
-**Compliance & RegTech:** `FINTRAC` · `FINCEN` · `STR/LCTR Filing` · `KYC/AML` · `CLEARID` · `PEP/Sanctions Screening` · `OSFI Guidelines`
+**ML & AI**  
+Scikit-learn · PyTorch · NLP · Anomaly Detection · Risk Scoring Systems  
+
+**Cloud & Infrastructure**  
+AWS (Certified) · Azure · GCP · Docker · Spark · Hadoop · Airflow  
+
+**Software & Visualization**  
+.NET · Node.js · React · REST APIs · Swagger · Tableau · Power BI  
+
+**Compliance & RegTech**  
+FINTRAC · FINCEN · STR/LCTR · KYC/AML · PEP/Sanctions Screening · OSFI Guidelines · CLEARID  
 
 ---
 
 ## 📝 Writing & Thought Leadership
 
-I write about the intersection of compliance, data engineering, and RegTech on [Medium](https://iamnagrecha.medium.com/) — translating technical concepts for compliance audiences and regulatory nuance for engineering teams.
+I write about **how compliance actually works in production** — where regulations meet data systems, and where most implementations quietly fail.
+
+Focus areas:  
+- Translating AML & regulatory expectations into real-world systems  
+- Breaking down transaction monitoring, risk scoring, and KYC pipelines  
+- Exploring how AI is reshaping financial crime detection  
+
+👉 [Read my Medium](https://iamnagrecha.medium.com/)
+
+---
+
+## 📚 Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> Real-world perspectives on AML systems, data engineering, and RegTech  
+> [Explore all articles →](https://iamnagrecha.medium.com/)
 
 ---
 
 ## 🚀 Currently Exploring
 
-Things I'm actively learning and experimenting with right now:
-
-![Generative AI for AML](https://img.shields.io/badge/Generative_AI_for_AML-6f42c1?style=flat-square)
-![Graph Neural Networks](https://img.shields.io/badge/Graph_Neural_Networks_(Fraud_Detection)-007ACC?style=flat-square)
-![LLM-powered Compliance](https://img.shields.io/badge/LLM--powered_Compliance_Tools-2C3E50?style=flat-square)
-![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming_(Kafka_%2B_Flink)-E67E22?style=flat-square)
-![Explainable AI](https://img.shields.io/badge/Explainable_AI_for_Risk_Models-27AE60?style=flat-square)
-
----
-
-## ✍️ Latest from Medium
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> *Auto-updated via GitHub Actions — [read all posts →](https://iamnagrecha.medium.com/)*
-
-<details>
-<summary><strong>⚙️ Setup instructions for auto-updating posts</strong></summary>
-<br/>
-
-Create `.github/workflows/blog-post-workflow.yml` in your profile repo:
-
-```yaml
-name: Latest blog post workflow
-on:
-  schedule:
-    - cron: '0 6 * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-blog:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://iamnagrecha.medium.com/feed"
-          max_post_count: 3
-```
-
-The `BLOG-POST-LIST` comments above will auto-populate with your 3 latest posts daily.
-
-</details>
+- Generative AI for AML use cases  
+- Graph-based fraud detection  
+- LLM-powered compliance tooling  
+- Real-time streaming (Kafka, Flink)  
+- Explainable AI for risk systems  
 
 ---
 
 ## 📈 GitHub Activity
 
-*I try to learn something new every day — the streak card keeps me honest.*
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iamnagrecha&theme=react&hide_border=true&ring=6f42c1&fire=6f42c1&currStreakLabel=6f42c1" width="60%" />
-</div>
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnagrecha&theme=react-dark&hide_border=true&area=true&color=6f42c1&line=6f42c1&point=ffffff" width="100%" />
-</div>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&theme=react&hide_border=true&title_color=6f42c1&icon_color=6f42c1" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=react&hide_border=true&title_color=6f42c1" height="160" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnagrecha&show_icons=true&theme=react&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnagrecha&layout=compact&theme=react&hide_border=true" height="160" />
+</p>
 
 ---
 
+## 🤝 Let’s Connect
 
+If you're building AML systems, scaling compliance infrastructure, or exploring RegTech — I’m always open to meaningful conversations.
