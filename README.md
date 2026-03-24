@@ -2,7 +2,7 @@
 
 <h1>Abhishek Nagrecha</h1>
 
-<p><sup>DATA ANALYTICS SPECIALIST &nbsp;·&nbsp; FINANCIAL CRIME, RISK &amp; COMPLIANCE TECHNOLOGY</sup></p>
+<p><strong>DATA ANALYTICS SPECIALIST &nbsp;·&nbsp; FINANCIAL CRIME, RISK &amp; COMPLIANCE TECHNOLOGY</strong></p>
 
 <p><em>Building the infrastructure that keeps financial systems honest.</em></p>
 
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Medium-iamnagrecha-000000?style=flat-square&logo=medium&logoColor=white" />
   </a>&nbsp;
   <a href="mailto:abhishek.nagrecha.an@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhishek.nagrecha-B5311A?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-B5311A?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -31,17 +31,19 @@
 
 ---
 
-<sup>THE WORK</sup>
+## The Work
 
 Most data projects fail not from bad code — but from the gap between what regulators require, what the business understands, and what engineering actually ships.
 
 I've spent five years working inside that gap — across AML program design, cloud data architecture, and tech delivery for banks, fintechs, and crypto platforms. My focus is translating regulatory and business intent into **production-grade systems**: transaction monitoring pipelines, STR/LCTR automation, KYC integrations, and scalable compliance infrastructure.
 
+Everything I build starts with the customer. I listen closely, ship based on real feedback, and keep iterating until the solution actually fits — not just on paper, but in practice. The work isn't done when the system goes live; it's done when the people using it no longer have to think about it.
+
 *I don't just consult. I build.*
 
 ---
 
-<sup>WHAT I WORK ON</sup>
+## What I Work On
 
 **AML & Transaction Monitoring**
 Pipeline design for high-volume financial data, with rule engines built to surface genuine risk — not generate operational noise.
@@ -60,7 +62,7 @@ ML pipelines with explainability built in — because a model output that can't 
 
 ---
 
-<sup>INDUSTRIES & ORGANIZATIONS</sup>
+## Industries & Organizations
 
 | | |
 |:--|:--|
@@ -70,7 +72,7 @@ ML pipelines with explainability built in — because a model output that can't 
 
 ---
 
-<sup>TECHNICAL STACK</sup>
+## Technical Stack
 
 **Data Engineering & Languages**
 `Python` `SQL` `R` `Pandas` `NumPy` `PostgreSQL` `MSSQL` `MongoDB`
@@ -89,7 +91,7 @@ ML pipelines with explainability built in — because a model output that can't 
 
 ---
 
-<sup>CURRENTLY EXPLORING</sup>
+## Currently Exploring
 
 **LLM & Generative AI for Compliance**
 How large language models can take on interpretive, semi-structured compliance work — and where the real constraints are in regulated environments.
@@ -99,7 +101,7 @@ Model documentation, audit trails, and decision traceability frameworks that mee
 
 ---
 
-<sup>WRITING</sup>
+## Writing
 
 I write about technology, data, AI, and software engineering — translating technical depth for engineers and decision-makers alike.
 
@@ -110,7 +112,7 @@ I write about technology, data, AI, and software engineering — translating tec
 
 ---
 
-<sup>GITHUB ACTIVITY</sup>
+## GitHub Activity
 
 <div align="center">
 
