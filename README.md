@@ -2,29 +2,45 @@
 
 <h1>Abhishek Nagrecha</h1>
 
-<p><strong>DATA ANALYTICS SPECIALIST &nbsp;·&nbsp; FINANCIAL CRIME, RISK &amp; COMPLIANCE TECHNOLOGY</strong></p>
+<p>
+<strong>DATA ANALYTICS SPECIALIST</strong><br/>
+Financial Crime · Risk · Compliance Technology
+</p>
 
-<p><em>Building the infrastructure that keeps financial systems honest.</em></p>
+<p><em>Designing systems that make financial institutions defensible, scalable, and audit-ready.</em></p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C2E,100:B5311A&height=3&section=header"/>
+
+<br/>
 
 <p>
   <a href="https://iamnagrecha.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-iamnagrecha.github.io-1C1C2E?style=flat-square&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Portfolio-Explore-1C1C2E?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/iamnagrecha/">
-    <img src="https://img.shields.io/badge/LinkedIn-iamnagrecha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://iamnagrecha.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-iamnagrecha-000000?style=flat-square&logo=medium&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Writing-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="mailto:abhishek.nagrecha.an@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_touch-B5311A?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-B5311A?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+<br/>
+
 <p>
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/5%2B_Years-AML_%7C_Cloud_%7C_Data_Engineering-1C1C2E?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Focus-Financial_Crime_%26_Risk-B5311A?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Experience-5+_Years-1C1C2E?style=flat"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Domain-Financial_Crime_&_Risk-B5311A?style=flat"/>
 </p>
 
 </div>
