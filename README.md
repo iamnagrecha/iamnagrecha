@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Abhishek Nagrecha</h1>
+<h1>Abhishek Nagrecha, MSc</h1>
 
 <p>
 <strong>DATA ANALYTICS SPECIALIST</strong><br/>
