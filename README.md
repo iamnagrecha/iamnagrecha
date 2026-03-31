@@ -4,7 +4,7 @@
 
 <p>
 <strong>DATA ANALYTICS SPECIALIST</strong><br/>
-Financial Crime · Risk · Compliance Technology
+Professional Services · Financial Compliance
 </p>
 
 <p><em>Designing systems that make financial institutions defensible, scalable, and audit-ready.</em></p>
